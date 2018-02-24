@@ -1,7 +1,7 @@
 [
     {
         "code": "05001",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "05002",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"My mind is my weapon.\"",
@@ -47,7 +47,7 @@
     },
     {
         "code": "05003",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "designer": "Card design by 2012 Chinese National Champion, Bing Ouyang.",
         "faction_code": "lannister",
@@ -71,7 +71,7 @@
     },
     {
         "code": "05004",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"The Burned Men fear nothing. Timett Son of Timett will ride with the lions.\"",
@@ -94,7 +94,7 @@
     },
     {
         "code": "05005",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -117,7 +117,7 @@
     },
     {
         "code": "05006",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"...when your enemies defy you, you must serve them steel and fire.\"",
@@ -140,7 +140,7 @@
     },
     {
         "code": "05007",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -163,7 +163,7 @@
     },
     {
         "code": "05008",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -186,7 +186,7 @@
     },
     {
         "code": "05009",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -209,7 +209,7 @@
     },
     {
         "code": "05010",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"Dreams turn to dust in light of day.\"",
@@ -232,7 +232,7 @@
     },
     {
         "code": "05011",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -255,7 +255,7 @@
     },
     {
         "code": "05012",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -278,7 +278,7 @@
     },
     {
         "code": "05013",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"My lord will find my tongue well schooled. When I was a girl I learned when to use it, and when not.\"",
@@ -301,7 +301,7 @@
     },
     {
         "code": "05014",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "At sixteen, he was cursed with all the certainty of youth, unleavened by any trace of humor or self-doubt, and wed to the arrogance that came so naturally to those born blond and strong and handsome.",
@@ -324,7 +324,7 @@
     },
     {
         "code": "05015",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"When I'm king in my own right, I'm going to outlaw beets.\"",
@@ -347,7 +347,7 @@
     },
     {
         "code": "05016",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -370,7 +370,7 @@
     },
     {
         "code": "05017",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -389,7 +389,7 @@
     },
     {
         "code": "05018",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Shadowcats prowled those passes, rock slides were common, and the mountain clans were lawless brigands...",
@@ -408,7 +408,7 @@
     },
     {
         "code": "05019",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -427,7 +427,7 @@
     },
     {
         "code": "05020",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -446,7 +446,7 @@
     },
     {
         "code": "05021",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "...a length of dragonbone and Valyrian steel, as sharp as the difference between right and wrong, between true and false, between life and death.",
@@ -465,7 +465,7 @@
     },
     {
         "code": "05022",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -484,7 +484,7 @@
     },
     {
         "code": "05023",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -503,7 +503,7 @@
     },
     {
         "code": "05024",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -521,7 +521,7 @@
     },
     {
         "code": "05025",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"I won't go pray to the Lord of Light. I am a Warrior's man, like my father.\"",
@@ -544,7 +544,7 @@
     },
     {
         "code": "05026",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -563,7 +563,7 @@
     },
     {
         "code": "05027",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"Come kill me, if you can.\"",
@@ -586,7 +586,7 @@
     },
     {
         "code": "05028",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -605,7 +605,7 @@
     },
     {
         "code": "05029",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -628,7 +628,7 @@
     },
     {
         "code": "05030",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Elia. Say it! Elia of Dorne!\" <cite>The Red Viper</cite>",
@@ -647,7 +647,7 @@
     },
     {
         "code": "05031",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "The slender blond steward they called Sweet Donnel had laid a shaft just off the bull's eye at fifly yards.",
@@ -670,7 +670,7 @@
     },
     {
         "code": "05032",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "At the Bridge of Skulls he had met the Weeper and three hundred wildlings and won a bloody battle.",
@@ -689,7 +689,7 @@
     },
     {
         "code": "05033",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"I shall be a good and true wife to Robb, I swear. And as wise a queen as I can.\"",
@@ -712,7 +712,7 @@
     },
     {
         "code": "05034",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"...the Umbers may seem simple, but they are not without a certain low cunning.\" <cite>Roose Bolton</cite>",
@@ -735,7 +735,7 @@
     },
     {
         "code": "05035",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"I am a knight... I shall die a knight.\"",
@@ -758,7 +758,7 @@
     },
     {
         "code": "05036",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -777,7 +777,7 @@
     },
     {
         "code": "05037",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Sansa recognized only Lord Tyrell's tall dignified wife, Lady Alerie, whose long silvery braid was bound with jeweled rings.",
@@ -800,7 +800,7 @@
     },
     {
         "code": "05038",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -819,7 +819,7 @@
     },
     {
         "code": "05039",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -842,7 +842,7 @@
     },
     {
         "code": "05040",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "The Warrior stands before the foe, protecting us where e'er we go. With sword and shield and spear and bow, he guards the little children.",
@@ -865,7 +865,7 @@
     },
     {
         "code": "05041",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -888,7 +888,7 @@
     },
     {
         "code": "05042",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -907,7 +907,7 @@
     },
     {
         "code": "05043",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -926,7 +926,7 @@
     },
     {
         "code": "05044",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"So the king has decreed. The small council consents.\" <cite>Grand Maester Pycelle</cite>",

@@ -1,7 +1,7 @@
 [
     {
         "code": "08001",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -20,7 +20,7 @@
     },
     {
         "code": "08002",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "08003",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "He remembered how the direwolves had come at him out of the shadows, and suddenly he could see them again, snarling and snapping, teeth bared in his face.",
@@ -62,7 +62,7 @@
     },
     {
         "code": "08004",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Septa Nysterica had a homely pox-scarred face but seemed jolly.",
@@ -85,7 +85,7 @@
     },
     {
         "code": "08005",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -104,7 +104,7 @@
     },
     {
         "code": "08006",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -127,7 +127,7 @@
     },
     {
         "code": "08007",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -146,7 +146,7 @@
     },
     {
         "code": "08008",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"One realm, one god, one king!\"",
@@ -169,7 +169,7 @@
     },
     {
         "code": "08009",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Leave the traitor to the darkness.\" <cite>Ser Axell Florent</cite>",
@@ -188,7 +188,7 @@
     },
     {
         "code": "08010",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -211,7 +211,7 @@
     },
     {
         "code": "08011",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -230,7 +230,7 @@
     },
     {
         "code": "08012",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"The god took me deep beneath the waves and drowned the worthless thing I was.\" <cite>Aeron Damphair</cite>",
@@ -253,7 +253,7 @@
     },
     {
         "code": "08013",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -272,7 +272,7 @@
     },
     {
         "code": "08014",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "08015",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -314,7 +314,7 @@
     },
     {
         "code": "08016",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Dorea stalks about knocking oranges off the trees with her morningstar...\" <cite>Doran Martell</cite>",
@@ -337,7 +337,7 @@
     },
     {
         "code": "08017",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "There children frolicked naked in the sun, music played in tiled courtyards, and the air was sharp with the smell of lemons and blood oranges.",
@@ -356,7 +356,7 @@
     },
     {
         "code": "08018",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -379,7 +379,7 @@
     },
     {
         "code": "08019",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

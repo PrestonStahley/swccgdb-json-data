@@ -1,7 +1,7 @@
 [
     {
         "code": "02101",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "02102",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "02103",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -66,7 +66,7 @@
     },
     {
         "code": "02104",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -85,7 +85,7 @@
     },
     {
         "code": "02105",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -108,7 +108,7 @@
     },
     {
         "code": "02106",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"Corn, corn, corn.\"",
@@ -127,7 +127,7 @@
     },
     {
         "code": "02107",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Your Grace, there is honor in facing an enemy on the battlefield, but none in killing him in his mother's womb. Forgive me, but I must stand with Lord Eddard.\"",
@@ -150,7 +150,7 @@
     },
     {
         "code": "02108",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"The City Watch is two thousand strong, sworn to defend the castle, the city, and the king's peace.\" <cite>Eddard Stark</cite>",
@@ -173,7 +173,7 @@
     },
     {
         "code": "02109",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Every time she looked at Ser Ilyn Payne, she shivered. He made her feel as though something dead were slithering over her naked skin.",
@@ -196,7 +196,7 @@
     },
     {
         "code": "02110",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "The chamber was richly furnished. Myrish carpets covered the floor instead of rushes, and in one corner a hundred fabulous beasts cavorted in bright paints on a carved screen from the Summer Isles.",
@@ -215,7 +215,7 @@
     },
     {
         "code": "02111",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -238,7 +238,7 @@
     },
     {
         "code": "02112",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -257,7 +257,7 @@
     },
     {
         "code": "02113",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -280,7 +280,7 @@
     },
     {
         "code": "02114",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "With a belch of flame and smoke that reached thirty feet into the sky, the pyre collapsed and came down around her. Unafraid, Dany stepped forward into the firestorm, calling to her children.",
@@ -299,7 +299,7 @@
     },
     {
         "code": "02115",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -322,7 +322,7 @@
     },
     {
         "code": "02116",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "At first he had consoled himself that this imprisonment could not last long.",
@@ -341,7 +341,7 @@
     },
     {
         "code": "02117",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"A chain needs all sorts of metals, and a land needs all sorts of people.\" <cite>Jon Snow</cite>",
@@ -360,7 +360,7 @@
     },
     {
         "code": "02118",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

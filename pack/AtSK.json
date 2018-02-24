@@ -1,7 +1,7 @@
 [
     {
         "code": "04001",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "The comet's tail spread across the dawn, a red slash that bled above the crags of Dragonstone like a wound in the pink and purple sky.",
@@ -20,7 +20,7 @@
     },
     {
         "code": "04002",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "04003",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -62,7 +62,7 @@
     },
     {
         "code": "04004",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"These are dangerous lands you cross.\"",
@@ -85,7 +85,7 @@
     },
     {
         "code": "04005",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -104,7 +104,7 @@
     },
     {
         "code": "04006",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "At Winterfell they had called her \"Arya Horseface\" and she'd thought nothing could be worse...",
@@ -127,7 +127,7 @@
     },
     {
         "code": "04007",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "It was the end of the world. And we are going beyond it.",
@@ -146,7 +146,7 @@
     },
     {
         "code": "04008",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -169,7 +169,7 @@
     },
     {
         "code": "04009",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -188,7 +188,7 @@
     },
     {
         "code": "04010",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"And this so-called Lord of Harrenhal is a butcher's whelp upjumped by the Lannisters. Small wonder he is venal and corrupt.\" <cite>Ser Denys Mallister</cite>",
@@ -211,7 +211,7 @@
     },
     {
         "code": "04011",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -230,7 +230,7 @@
     },
     {
         "code": "04012",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "Her father had forbidden her to come ashore, but whenever Theon came to Lordsport he spied her wandering forlornly about the deck.",
@@ -253,7 +253,7 @@
     },
     {
         "code": "04013",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "The point of land on which the Greyjoys had raised their fortress had once thrust like a sword into the bowels of the ocean, but the waves had hammered at it day and night until the land broke and shattered, thousands of years past.",
@@ -272,7 +272,7 @@
     },
     {
         "code": "04014",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "04015",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "The dothraki named the comet shierak qiya, the Bleeding Star.",
@@ -314,7 +314,7 @@
     },
     {
         "code": "04016",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -337,7 +337,7 @@
     },
     {
         "code": "04017",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "...the last light of the afternoon was slanting down through thick windows of many-colored glass to dapple the pale marble with diamonds of half a hundred colors.",
@@ -356,7 +356,7 @@
     },
     {
         "code": "04018",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "The pyromancers said that only three things burned hotter than their substance: dragonflame, the fires beneath the earth, and the summer sun.",

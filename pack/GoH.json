@@ -1,7 +1,7 @@
 [
     {
         "code": "04081",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"Fear is what keeps a man alive in this world of treachery and deceit.\"",
@@ -24,7 +24,7 @@
     },
     {
         "code": "04082",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "Harrenhal had seen more horror in its three hundred years than Casterly Rock had witnessed in three thousand.",
@@ -43,7 +43,7 @@
     },
     {
         "code": "04083",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"He said that all his other knights wanted things of him, castles or honors or riches, but all that Brienne wanted was to die for him.\" <cite>The Knight of Flowers</cite>",
@@ -66,7 +66,7 @@
     },
     {
         "code": "04084",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"Only Renly could vex me so with a piece of fruit.\" <cite>Stannis Baratheon</cite>",
@@ -85,7 +85,7 @@
     },
     {
         "code": "04085",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"Even so, he's never turned a ranger away from his fire\" <cite>Thoren Smallwood</cite>",
@@ -108,7 +108,7 @@
     },
     {
         "code": "04086",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "Dragonglass. What the maesters call obsidian.",
@@ -127,7 +127,7 @@
     },
     {
         "code": "04087",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Aye, I've broken laws, but I never felt evil until tonight.\"",
@@ -150,7 +150,7 @@
     },
     {
         "code": "04088",
-        "cost": null,
+        "cost": "X",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "The morning air was dark with the smoke of burning gods.",
@@ -169,7 +169,7 @@
     },
     {
         "code": "04089",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"...you can lead a king to water, but with Joff one had to splash it about before he realized he could drink it.\" <cite>Littlefinger</cite>",
@@ -192,7 +192,7 @@
     },
     {
         "code": "04090",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "In Chataya's brothel, Shae would have all the silks and gems she could wish for, and the gentlest highborn patrons.",
@@ -211,7 +211,7 @@
     },
     {
         "code": "04091",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"M'lord, I am sent to show you to chambers.\"",
@@ -234,7 +234,7 @@
     },
     {
         "code": "04092",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "The first three men had offered their lives to the Drowned God fearlessly...",
@@ -253,7 +253,7 @@
     },
     {
         "code": "04093",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "...Xaro Xhoan Daxos saw to it that the great and the humble alike offered some token to the Mother of Dragons.",
@@ -276,7 +276,7 @@
     },
     {
         "code": "04094",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "04095",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "The girl never wept. Young as she was, Myrcella Baratheon was a princess born.",
@@ -318,7 +318,7 @@
     },
     {
         "code": "04096",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -337,7 +337,7 @@
     },
     {
         "code": "04097",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "The silent sisters prepared men for the grave, and it was ill fortune to look on the face of death.",
@@ -360,7 +360,7 @@
     },
     {
         "code": "04098",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "The Frostfangs have a cruel bite, even in summer...",
@@ -379,7 +379,7 @@
     },
     {
         "code": "04099",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

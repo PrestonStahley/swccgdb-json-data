@@ -1,7 +1,7 @@
 [
     {
         "code": "08021",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"We are stronger than we seem, my lady.\"",
@@ -24,7 +24,7 @@
     },
     {
         "code": "08022",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "08023",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -66,7 +66,7 @@
     },
     {
         "code": "08024",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "...Oldtown was a veritable labyrinth of a city, all wynds and crisscrossing alleys and narrow crookback streets",
@@ -85,7 +85,7 @@
     },
     {
         "code": "08025",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "Fair-haired and hazel-eyed, the handsome young singer out of Eastwatch looked more like some dark prince than a black brother.",
@@ -108,7 +108,7 @@
     },
     {
         "code": "08026",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"Sam, the Night’s Watch has hundreds of men who can loose an arrow, but only a handful who can read or write. I need you to become my new maester.\" <cite>Jon Snow</cite>",
@@ -127,7 +127,7 @@
     },
     {
         "code": "08027",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -150,7 +150,7 @@
     },
     {
         "code": "08028",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Say what you will, but say it quickly.\" <cite>Stannis Baratheon</cite>",
@@ -169,7 +169,7 @@
     },
     {
         "code": "08029",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Black Ears rode on both sides of him, their grisly necklaces looped about their throats...",
@@ -192,7 +192,7 @@
     },
     {
         "code": "08030",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -211,7 +211,7 @@
     },
     {
         "code": "08031",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -234,7 +234,7 @@
     },
     {
         "code": "08032",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -253,7 +253,7 @@
     },
     {
         "code": "08033",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -276,7 +276,7 @@
     },
     {
         "code": "08034",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "08035",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "I want Sunspear, and my father's seat. I want Dorne.",
@@ -318,7 +318,7 @@
     },
     {
         "code": "08036",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -337,7 +337,7 @@
     },
     {
         "code": "08037",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -360,7 +360,7 @@
     },
     {
         "code": "08038",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

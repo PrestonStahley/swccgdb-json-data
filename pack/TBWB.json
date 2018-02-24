@@ -1,7 +1,7 @@
 [
     {
         "code": "06101",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "06102",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "06103",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"My lord father always keeps singers at court, sweeter ones than Butters here, and pipers and fiddlers and harpers as well.\" <cite>Margaery Tyrell</cite>",
@@ -66,7 +66,7 @@
     },
     {
         "code": "06104",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -85,7 +85,7 @@
     },
     {
         "code": "06105",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"The Watch is not what it was. Too few honest men to keep the rogues in line.\"",
@@ -108,7 +108,7 @@
     },
     {
         "code": "06106",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -127,7 +127,7 @@
     },
     {
         "code": "06107",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Under the sea, the fish eat us. I know, I know, oh, oh, oh.\"",
@@ -150,7 +150,7 @@
     },
     {
         "code": "06108",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -169,7 +169,7 @@
     },
     {
         "code": "06109",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -192,7 +192,7 @@
     },
     {
         "code": "06110",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -211,7 +211,7 @@
     },
     {
         "code": "06111",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -234,7 +234,7 @@
     },
     {
         "code": "06112",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -253,7 +253,7 @@
     },
     {
         "code": "06113",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -276,7 +276,7 @@
     },
     {
         "code": "06114",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "06115",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -318,7 +318,7 @@
     },
     {
         "code": "06116",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "Hers was a gentle prison.",
@@ -337,7 +337,7 @@
     },
     {
         "code": "06117",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "designer": "Card design by 2014 European Melee Champion, Jakob Hultman.",
         "faction_code": "neutral",
@@ -361,7 +361,7 @@
     },
     {
         "code": "06118",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

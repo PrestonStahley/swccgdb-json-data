@@ -19,8 +19,9 @@
         "cost": {
             "oneOf": [
                 {
-                    "minimum": 0,
-                    "type": "integer"
+                    "maxLength": 1,
+                    "minLength": 1,
+                    "type": "string"
                 },
                 {
                     "type": "null"

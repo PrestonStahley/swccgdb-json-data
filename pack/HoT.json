@@ -1,7 +1,7 @@
 [
     {
         "code": "09001",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "09002",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -47,7 +47,7 @@
     },
     {
         "code": "09003",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"A valiant deed unsung is no less valiant.\"",
@@ -70,7 +70,7 @@
     },
     {
         "code": "09004",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"All these kings would do a deal better if they would put down their swords and listen to their mothers.\"",
@@ -93,7 +93,7 @@
     },
     {
         "code": "09005",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -116,7 +116,7 @@
     },
     {
         "code": "09006",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "designer": "Card design by 2011 European Melee Champion, Gregoire Lefebvre.",
         "faction_code": "tyrell",
@@ -140,7 +140,7 @@
     },
     {
         "code": "09007",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"Most deserve to be forgotten. The heroes will always be remembered. The best.\"",
@@ -163,7 +163,7 @@
     },
     {
         "code": "09008",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -186,7 +186,7 @@
     },
     {
         "code": "09009",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"Garth has served me well as Lord Seneschal, as he served my father before me.\" <cite>Mace Tyrell</cite>",
@@ -209,7 +209,7 @@
     },
     {
         "code": "09010",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"As a boy, I was called Wat. A fine name for a plowboy, less fitting for a singer.\"",
@@ -232,7 +232,7 @@
     },
     {
         "code": "09011",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -255,7 +255,7 @@
     },
     {
         "code": "09012",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -278,7 +278,7 @@
     },
     {
         "code": "09013",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"Redwyne has a nicely dowered daughter...\" <cite>Daven Lannister</cite>",
@@ -301,7 +301,7 @@
     },
     {
         "code": "09014",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -324,7 +324,7 @@
     },
     {
         "code": "09015",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -347,7 +347,7 @@
     },
     {
         "code": "09016",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Other riders Sansa did not know; hedge knights from the Fingers and Highgarden and the mountains of Dorne, unsung freeriders and new-made squires...",
@@ -370,7 +370,7 @@
     },
     {
         "code": "09017",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "From where it stood atop the bluffs of Battle Island, its shadow cut the city like a sword.",
@@ -389,7 +389,7 @@
     },
     {
         "code": "09018",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -408,7 +408,7 @@
     },
     {
         "code": "09019",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "The jousting went all day and into the dusk, the hooves of the great warhorses pounding down the lists until the field was a ragged wasteland of torn earth.",
@@ -427,7 +427,7 @@
     },
     {
         "code": "09020",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -446,7 +446,7 @@
     },
     {
         "code": "09021",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -465,7 +465,7 @@
     },
     {
         "code": "09022",
-        "cost": null,
+        "cost": "X",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -484,7 +484,7 @@
     },
     {
         "code": "09023",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Six maids there were in a spring-fed pool...",
@@ -503,7 +503,7 @@
     },
     {
         "code": "09024",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -522,7 +522,7 @@
     },
     {
         "code": "09025",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Use every smuggler's trick you know, the black sails, the hidden coves, whatever it requires.\" <cite>Stannis Baratheon</cite>",
@@ -545,7 +545,7 @@
     },
     {
         "code": "09026",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"No man has ever died from bending his knee.\" <cite>Balon Greyjoy</cite>",
@@ -564,7 +564,7 @@
     },
     {
         "code": "09027",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -587,7 +587,7 @@
     },
     {
         "code": "09028",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -606,7 +606,7 @@
     },
     {
         "code": "09029",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"I am no knight. I spit on them and their vows.\"",
@@ -629,7 +629,7 @@
     },
     {
         "code": "09030",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -648,7 +648,7 @@
     },
     {
         "code": "09031",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -671,7 +671,7 @@
     },
     {
         "code": "09032",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Half of the Ullers are half-mad, the saying went, and the other half are worse.\"",
@@ -690,7 +690,7 @@
     },
     {
         "code": "09033",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -713,7 +713,7 @@
     },
     {
         "code": "09034",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -732,7 +732,7 @@
     },
     {
         "code": "09035",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"... all those years I was a knight, I was truly a fool, and now that I am a fool I think... I think I may find it in me to be a knight again...\"",
@@ -755,7 +755,7 @@
     },
     {
         "code": "09036",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -774,7 +774,7 @@
     },
     {
         "code": "09037",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "Qotho was ever the cruelest of the bloodriders.",
@@ -797,7 +797,7 @@
     },
     {
         "code": "09038",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -816,7 +816,7 @@
     },
     {
         "code": "09039",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"Morn will be upon us sooner than we'd like, and Archmaester Ebrose will be speaking on the properties of urine. Those who mean to forge a silver link would do well not to miss his talk.\" <cite>Armen the Acolyte</cite>",
@@ -839,7 +839,7 @@
     },
     {
         "code": "09040",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "designer": "Card design by 2013 Overall World Champion, Ryan Jones.",
         "faction_code": "neutral",
@@ -863,7 +863,7 @@
     },
     {
         "code": "09041",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "He had only been at the Citadel for a year, yet already he had forged three links of his maester's chain.",
@@ -886,7 +886,7 @@
     },
     {
         "code": "09042",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"There are so many books at the Citadel that no man can hope to read them all.\" <cite>Jon Snow</cite>",
@@ -905,7 +905,7 @@
     },
     {
         "code": "09043",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "Dissolved in wine, it would make the muscles of a man's throat clench tighter than any fist.",
@@ -924,7 +924,7 @@
     },
     {
         "code": "09044",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"I put more trust in deeds.\" <cite>Daenerys Targaryen</cite>",

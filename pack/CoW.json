@@ -1,7 +1,7 @@
 [
     {
         "code": "02081",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "02082",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "02083",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -88,7 +88,7 @@
     },
     {
         "code": "02085",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -111,7 +111,7 @@
     },
     {
         "code": "02086",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -130,7 +130,7 @@
     },
     {
         "code": "02087",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -149,7 +149,7 @@
     },
     {
         "code": "02088",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -168,7 +168,7 @@
     },
     {
         "code": "02089",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -191,7 +191,7 @@
     },
     {
         "code": "02090",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"The gods know the truth of my innocence. I will have their verdict, not the judgment of men.\" <cite>Tyrion Lannister</cite>",
@@ -210,7 +210,7 @@
     },
     {
         "code": "02091",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -233,7 +233,7 @@
     },
     {
         "code": "02092",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "In those days, the ironborn did not work mines; that was labor for the captives brought back from the hostings.",
@@ -252,7 +252,7 @@
     },
     {
         "code": "02093",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"The Great Shepherd sent me to earth to heal his lambs, wherever I might find them.\"",
@@ -275,7 +275,7 @@
     },
     {
         "code": "02094",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -294,7 +294,7 @@
     },
     {
         "code": "02095",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -317,7 +317,7 @@
     },
     {
         "code": "02096",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -336,7 +336,7 @@
     },
     {
         "code": "02097",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -355,7 +355,7 @@
     },
     {
         "code": "02098",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -374,7 +374,7 @@
     },
     {
         "code": "02099",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "Yet in his nightmare he faced it again...",

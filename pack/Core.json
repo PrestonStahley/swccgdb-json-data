@@ -591,7 +591,7 @@
     },
     {
         "code": "01028",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"I did warn you not to trust me.\"",
@@ -614,7 +614,7 @@
     },
     {
         "code": "01029",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"Why is it always the innocents who suffer most, when you high lords play your game of thrones?\"",
@@ -637,7 +637,7 @@
     },
     {
         "code": "01030",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -660,7 +660,7 @@
     },
     {
         "code": "01031",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -683,7 +683,7 @@
     },
     {
         "code": "01032",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "The king eats, they say, and the Hand takes the shit.\" <cite>Robert Baratheon</cite>",
@@ -702,7 +702,7 @@
     },
     {
         "code": "01033",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -721,7 +721,7 @@
     },
     {
         "code": "01034",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"He has informants everywhere. His little birds, he calls them.\" <cite>Littlefinger</cite>",
@@ -740,7 +740,7 @@
     },
     {
         "code": "01035",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "By the time the maester removed the funnel from his mouth, he was already spiralling back to sleep.",
@@ -759,7 +759,7 @@
     },
     {
         "code": "01036",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "What had Jon Arryn wanted with a king's bastard, and why was it worth his life?",
@@ -778,7 +778,7 @@
     },
     {
         "code": "01037",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"Now we will begin the dance.\" <cite>Syrio Forel</cite>",
@@ -797,7 +797,7 @@
     },
     {
         "code": "01038",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"…it is a monstruous uncomfortable chair. In more ways than one.\" <cite>Robert Baratheon</cite>",
@@ -816,7 +816,7 @@
     },
     {
         "code": "01039",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -835,7 +835,7 @@
     },
     {
         "code": "01040",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -854,7 +854,7 @@
     },
     {
         "code": "01041",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -873,7 +873,7 @@
     },
     {
         "code": "01042",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -892,7 +892,7 @@
     },
     {
         "code": "01043",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -911,7 +911,7 @@
     },
     {
         "code": "01044",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -930,7 +930,7 @@
     },
     {
         "code": "01045",
-        "cost": null,
+        "cost": "X",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -949,7 +949,7 @@
     },
     {
         "code": "01046",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -972,7 +972,7 @@
     },
     {
         "code": "01047",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"It is not the foes who curse you to your face that you must fear, but those who smile when you are looking and sharpen their knives when you turn your back.\"",
@@ -995,7 +995,7 @@
     },
     {
         "code": "01048",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Fat? Fat, is it? Is that how your speak to your king? Ah, damn you, Ned, why are you always right?\"",
@@ -1018,7 +1018,7 @@
     },
     {
         "code": "01049",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1041,7 +1041,7 @@
     },
     {
         "code": "01050",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"King Stannis is my god. He made me and blessed me with his trust.\"",
@@ -1064,7 +1064,7 @@
     },
     {
         "code": "01051",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"The grey death sleeps, only to wake again. The child is not clean!\" <cite>Val</cite>",
@@ -1087,7 +1087,7 @@
     },
     {
         "code": "01052",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"I shall bring justice to Westeros.\"",
@@ -1110,7 +1110,7 @@
     },
     {
         "code": "01053",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"The seed is strong, he told me. His last words. He kept saying Robert's name, and he grabbed my arm so hard he left marks. Tell them, the seed is strong.\" <cite>Lysa Arryn</cite>",
@@ -1133,7 +1133,7 @@
     },
     {
         "code": "01054",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"The red priests have a great temple on Lys. Always they are burning this and burning that, crying out to their R'hllor. They bore me with their fires. Soon they will bore King Stannis too, it is to be hoped.\" <cite>Salladhor Saan</cite>",
@@ -1156,7 +1156,7 @@
     },
     {
         "code": "01055",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "“Three of my men were cut down like dogs not a league from where we sit, and what does Robert do? He goes hunting.\" <cite>Eddard Stark</cite>",
@@ -1179,7 +1179,7 @@
     },
     {
         "code": "01056",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1202,7 +1202,7 @@
     },
     {
         "code": "01057",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1225,7 +1225,7 @@
     },
     {
         "code": "01058",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1244,7 +1244,7 @@
     },
     {
         "code": "01059",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1263,7 +1263,7 @@
     },
     {
         "code": "01060",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1282,7 +1282,7 @@
     },
     {
         "code": "01061",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1301,7 +1301,7 @@
     },
     {
         "code": "01062",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1320,7 +1320,7 @@
     },
     {
         "code": "01063",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1339,7 +1339,7 @@
     },
     {
         "code": "01064",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -1358,7 +1358,7 @@
     },
     {
         "code": "01065",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"What is dead may never die, but rises again, harder and stronger.\"",
@@ -1381,7 +1381,7 @@
     },
     {
         "code": "01066",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "Alannys never had the sort of beauty the singers cherished, but her daughter had loved her fierce strong face and the laughter in her eyes.",
@@ -1404,7 +1404,7 @@
     },
     {
         "code": "01067",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"I am Asha of House Greyjoy, aye. Opinions differ on whether I'm a lady.\"",
@@ -1427,7 +1427,7 @@
     },
     {
         "code": "01068",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"I am the Greyjoy, Lord Reaper of Pyke, King of Salt and Rock, Son of the Sea Wind, and no man gives me a crown. I pay the iron price.\"",
@@ -1450,7 +1450,7 @@
     },
     {
         "code": "01069",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"The Crow's Eye worships naught but his own pride.\" <cite>Aeron Damphair</cite>",
@@ -1473,7 +1473,7 @@
     },
     {
         "code": "01070",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "He wore about his neck a chain of many metals that marked him for a master of the Citadel.",
@@ -1496,7 +1496,7 @@
     },
     {
         "code": "01071",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"Only a fool humbles himself when the world is so full of men eager to do that job for him.\"",
@@ -1519,7 +1519,7 @@
     },
     {
         "code": "01072",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1542,7 +1542,7 @@
     },
     {
         "code": "01073",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1565,7 +1565,7 @@
     },
     {
         "code": "01074",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1588,7 +1588,7 @@
     },
     {
         "code": "01075",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1611,7 +1611,7 @@
     },
     {
         "code": "01076",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "No man ever truly knows what he can do unless he dares to leap.\" <cite>Euron Crow's Eye</cite>",
@@ -1634,7 +1634,7 @@
     },
     {
         "code": "01077",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1653,7 +1653,7 @@
     },
     {
         "code": "01078",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1672,7 +1672,7 @@
     },
     {
         "code": "01079",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1691,7 +1691,7 @@
     },
     {
         "code": "01080",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1710,7 +1710,7 @@
     },
     {
         "code": "01081",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1729,7 +1729,7 @@
     },
     {
         "code": "01082",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1748,7 +1748,7 @@
     },
     {
         "code": "01083",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -1767,7 +1767,7 @@
     },
     {
         "code": "01084",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"Love is poison. A sweet poison, but it will kill you all the same.\"",
@@ -1790,7 +1790,7 @@
     },
     {
         "code": "01085",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"All I did, I did for House Lannister.\"",
@@ -1813,7 +1813,7 @@
     },
     {
         "code": "01086",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"My son. How could I have made a son like that, Ned?\" <cite>Robert Baratheon</cite>",
@@ -1836,7 +1836,7 @@
     },
     {
         "code": "01087",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"There are no men like me. There's only me.\"",
@@ -1859,7 +1859,7 @@
     },
     {
         "code": "01088",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"Tickler makes them howl so hard they piss themselves.\" <cite>Chiswyck</cite>",
@@ -1882,7 +1882,7 @@
     },
     {
         "code": "01089",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"When you tear out a man's tongue, you are not proving him a liar, you're only telling the world that you fear what he might say.\"",
@@ -1905,7 +1905,7 @@
     },
     {
         "code": "01090",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -1928,7 +1928,7 @@
     },
     {
         "code": "01091",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Every clan in the Mountains of the Moon feared the Burned Men, who mortified their flesh with fire to prove their courage.",
@@ -1951,7 +1951,7 @@
     },
     {
         "code": "01092",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -1974,7 +1974,7 @@
     },
     {
         "code": "01093",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -1997,7 +1997,7 @@
     },
     {
         "code": "01094",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -2020,7 +2020,7 @@
     },
     {
         "code": "01095",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -2043,7 +2043,7 @@
     },
     {
         "code": "01096",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -2062,7 +2062,7 @@
     },
     {
         "code": "01097",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"They say there is naught but stone at the heart of Casterly Rock.\" <cite>Catelyn Stark</cite>",
@@ -2081,7 +2081,7 @@
     },
     {
         "code": "01098",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -2100,7 +2100,7 @@
     },
     {
         "code": "01099",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -2119,7 +2119,7 @@
     },
     {
         "code": "01100",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -2138,7 +2138,7 @@
     },
     {
         "code": "01101",
-        "cost": null,
+        "cost": "X",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -2157,7 +2157,7 @@
     },
     {
         "code": "01102",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -2176,7 +2176,7 @@
     },
     {
         "code": "01103",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Someone told. Someone always tells.\"",
@@ -2199,7 +2199,7 @@
     },
     {
         "code": "01104",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2222,7 +2222,7 @@
     },
     {
         "code": "01105",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Who fears to walk upon the grass? But it is the grass that hides the viper from his enemies and shelters him until he strikes.\"",
@@ -2245,7 +2245,7 @@
     },
     {
         "code": "01106",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2268,7 +2268,7 @@
     },
     {
         "code": "01107",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2291,7 +2291,7 @@
     },
     {
         "code": "01108",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Cersei sent us a head. We should send her back a bag of them.\"",
@@ -2314,7 +2314,7 @@
     },
     {
         "code": "01109",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"Oberyn was ever the viper. Deadly, dangerous, unpredictable. No man dared tread on him.\" <cite>Doran Martell</cite>",
@@ -2337,7 +2337,7 @@
     },
     {
         "code": "01110",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2360,7 +2360,7 @@
     },
     {
         "code": "01111",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2383,7 +2383,7 @@
     },
     {
         "code": "01112",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2406,7 +2406,7 @@
     },
     {
         "code": "01113",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "They came astride red horses and golden ones and a few as pale as snow...",
@@ -2429,7 +2429,7 @@
     },
     {
         "code": "01114",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2452,7 +2452,7 @@
     },
     {
         "code": "01115",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2471,7 +2471,7 @@
     },
     {
         "code": "01116",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2490,7 +2490,7 @@
     },
     {
         "code": "01117",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2509,7 +2509,7 @@
     },
     {
         "code": "01118",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2528,7 +2528,7 @@
     },
     {
         "code": "01119",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2547,7 +2547,7 @@
     },
     {
         "code": "01120",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2566,7 +2566,7 @@
     },
     {
         "code": "01121",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -2585,7 +2585,7 @@
     },
     {
         "code": "01122",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -2608,7 +2608,7 @@
     },
     {
         "code": "01123",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"He's not like the others. He never makes a sound. That's why I named him Ghost.\" <cite>Jon Snow</cite>",
@@ -2631,7 +2631,7 @@
     },
     {
         "code": "01124",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"Different roads sometimes lead to the same castle.\"",
@@ -2654,7 +2654,7 @@
     },
     {
         "code": "01125",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"Kill the boy, Jon Snow. Winter is almost upon us. Kill the boy and let the man be born.\"",
@@ -2677,7 +2677,7 @@
     },
     {
         "code": "01126",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"The things we love destroy us every time, lad. Remember that.\"",
@@ -2700,7 +2700,7 @@
     },
     {
         "code": "01127",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "The world was full of cravens who pretended to be heroes; it took a queer sort of courage to admit to cowardice as Samwell Tarly had.",
@@ -2723,7 +2723,7 @@
     },
     {
         "code": "01128",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"Do the dead frighten you?\"",
@@ -2746,7 +2746,7 @@
     },
     {
         "code": "01129",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"I got thirty this time, men and boys all bound for the Wall…\"",
@@ -2769,7 +2769,7 @@
     },
     {
         "code": "01130",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -2792,7 +2792,7 @@
     },
     {
         "code": "01131",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -2815,7 +2815,7 @@
     },
     {
         "code": "01132",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "We have a long ride before us. Eight days, maybe nine. And night is falling.\" <cite>Gared of the Night's Watch</cite>",
@@ -2838,7 +2838,7 @@
     },
     {
         "code": "01133",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"We hunt and farm, tend the horses, milk the cows, gather firewood, cook the meals. Who do you think makes your clothing? Who brings up supplies from the south? The stewards.\" <cite>Chett</cite>",
@@ -2861,7 +2861,7 @@
     },
     {
         "code": "01134",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -2884,7 +2884,7 @@
     },
     {
         "code": "01135",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"I use Longclaw when I must, ser.\" <cite>Jon Snow</cite>",
@@ -2903,7 +2903,7 @@
     },
     {
         "code": "01136",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -2922,7 +2922,7 @@
     },
     {
         "code": "01137",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -2941,7 +2941,7 @@
     },
     {
         "code": "01138",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"The Night's Watch is not proud. We take what is offered.\" <cite>Old Bear Mormont</cite>",
@@ -2960,7 +2960,7 @@
     },
     {
         "code": "01139",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"I pledge my life and honor to the Night's Watch, for this night and all the nights to come.\" <cite>from the Night's Watch vow</cite>",
@@ -2979,7 +2979,7 @@
     },
     {
         "code": "01140",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -2998,7 +2998,7 @@
     },
     {
         "code": "01141",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3021,7 +3021,7 @@
     },
     {
         "code": "01142",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"Can a man still be brave if he's afraid?\"",
@@ -3044,7 +3044,7 @@
     },
     {
         "code": "01143",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "I take no joy in mead nor meat, and song and laughter have become suspicious strangers to me. I am a creature of grief and dust and bitter longings. There is an empty place within me where my heart was once.",
@@ -3067,7 +3067,7 @@
     },
     {
         "code": "01144",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"The winters are hard, but the Starks will endure. We always have.\"",
@@ -3090,7 +3090,7 @@
     },
     {
         "code": "01145",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3113,7 +3113,7 @@
     },
     {
         "code": "01146",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"I have won every battle, yet somehow I'm losing the war.\"",
@@ -3136,7 +3136,7 @@
     },
     {
         "code": "01147",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"Why would you want to ride a smelly old horse and get all sore and sweaty when you could recline on feather pillows and eat cakes with the queen?\"",
@@ -3159,7 +3159,7 @@
     },
     {
         "code": "01148",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3182,7 +3182,7 @@
     },
     {
         "code": "01149",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3205,7 +3205,7 @@
     },
     {
         "code": "01150",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "Riverrun is situated at the end of the point of land where the Tumblestone flows into the Red Fork of the Trident.",
@@ -3228,7 +3228,7 @@
     },
     {
         "code": "01151",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3251,7 +3251,7 @@
     },
     {
         "code": "01152",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3274,7 +3274,7 @@
     },
     {
         "code": "01153",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3293,7 +3293,7 @@
     },
     {
         "code": "01154",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3312,7 +3312,7 @@
     },
     {
         "code": "01155",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3331,7 +3331,7 @@
     },
     {
         "code": "01156",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3350,7 +3350,7 @@
     },
     {
         "code": "01157",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3369,7 +3369,7 @@
     },
     {
         "code": "01158",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "His blood felt like warm rain as it sprayed across her face.",
@@ -3388,7 +3388,7 @@
     },
     {
         "code": "01159",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -3407,7 +3407,7 @@
     },
     {
         "code": "01160",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"I am Daenerys Stormborn of House Targaryen, the Unburnt, Mother of Dragons, khaleesi to Drogo's riders, and queen of the Seven Kingdoms of Westeros.\"",
@@ -3430,7 +3430,7 @@
     },
     {
         "code": "01161",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3453,7 +3453,7 @@
     },
     {
         "code": "01162",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"When Dothraki are defeated in combat, they cut off their braids in disgrace, so the world will know their shame. Khal Drogo has never lost a fight.\" <cite>Viserys Targaryen</cite>",
@@ -3476,7 +3476,7 @@
     },
     {
         "code": "01163",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"Illyrio believes in no cause but Illyrio. Gluttons are greedy men as a rule, and magisters are devious. Illyrio Mopatis is both.\"",
@@ -3499,7 +3499,7 @@
     },
     {
         "code": "01164",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3522,7 +3522,7 @@
     },
     {
         "code": "01165",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3545,7 +3545,7 @@
     },
     {
         "code": "01166",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3568,7 +3568,7 @@
     },
     {
         "code": "01167",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"When they write the history of my reign, sweet sister, they will say it began tonight.\"",
@@ -3591,7 +3591,7 @@
     },
     {
         "code": "01168",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "Among the Dothraki, the man who does not ride was no man at all, the lowest of the low, without honor or pride.",
@@ -3614,7 +3614,7 @@
     },
     {
         "code": "01169",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "Her handmaids had helped her ready herself for the ceremony. Despite the tender mother's stomach that had afflicted her these past two moons, Dany had dined on bowls of half-clotted blood to accustom herself to the taste, and Irri made her chew strips of dried horseflesh until her jaws were aching.",
@@ -3637,7 +3637,7 @@
     },
     {
         "code": "01170",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"In holdfasts all across the realm, men lift secret toasts to your health while women sew dragon banners and hide them against the day of your return from across the water.\" <cite>Illyrio Mopatis</cite>",
@@ -3660,7 +3660,7 @@
     },
     {
         "code": "01171",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3683,7 +3683,7 @@
     },
     {
         "code": "01172",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3702,7 +3702,7 @@
     },
     {
         "code": "01173",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3721,7 +3721,7 @@
     },
     {
         "code": "01174",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3740,7 +3740,7 @@
     },
     {
         "code": "01175",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3759,7 +3759,7 @@
     },
     {
         "code": "01176",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3778,7 +3778,7 @@
     },
     {
         "code": "01177",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3797,7 +3797,7 @@
     },
     {
         "code": "01178",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -3816,7 +3816,7 @@
     },
     {
         "code": "01179",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -3839,7 +3839,7 @@
     },
     {
         "code": "01180",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -3862,7 +3862,7 @@
     },
     {
         "code": "01181",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"I know what a burden you bear. You should let me share the load. There must be some things I could do to help you.\"",
@@ -3885,7 +3885,7 @@
     },
     {
         "code": "01182",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -3908,7 +3908,7 @@
     },
     {
         "code": "01183",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -3931,7 +3931,7 @@
     },
     {
         "code": "01184",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -3954,7 +3954,7 @@
     },
     {
         "code": "01185",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -3977,7 +3977,7 @@
     },
     {
         "code": "01186",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"All men are fools, if truth be told, but the ones in motley are more amusing than ones with crowns.\"",
@@ -4000,7 +4000,7 @@
     },
     {
         "code": "01187",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "The war had not touched the fabled bounty of Highgarden.",
@@ -4023,7 +4023,7 @@
     },
     {
         "code": "01188",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4046,7 +4046,7 @@
     },
     {
         "code": "01189",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4069,7 +4069,7 @@
     },
     {
         "code": "01190",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4092,7 +4092,7 @@
     },
     {
         "code": "01191",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4111,7 +4111,7 @@
     },
     {
         "code": "01192",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4130,7 +4130,7 @@
     },
     {
         "code": "01193",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4149,7 +4149,7 @@
     },
     {
         "code": "01194",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4168,7 +4168,7 @@
     },
     {
         "code": "01195",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4187,7 +4187,7 @@
     },
     {
         "code": "01196",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -4206,7 +4206,7 @@
     },
     {
         "code": "01197",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "And off they went, from here to there,\nThe bear, the bear, and the maiden fair.",

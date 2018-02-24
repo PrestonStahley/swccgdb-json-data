@@ -1,7 +1,7 @@
 [
     {
         "code": "04061",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"With two eyes you see my face. With three you could see my heart.\"",
@@ -24,7 +24,7 @@
     },
     {
         "code": "04062",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "What should he fear? He was the Young Wolf, King of the Trident and the North.",
@@ -42,7 +42,7 @@
     },
     {
         "code": "04063",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -65,7 +65,7 @@
     },
     {
         "code": "04064",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Lord Caswell's keep was scarcely tall enough to call a tower, but the country was low and flat and Catelyn could see for leagues in all directions.",
@@ -84,7 +84,7 @@
     },
     {
         "code": "04065",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -107,7 +107,7 @@
     },
     {
         "code": "04066",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -126,7 +126,7 @@
     },
     {
         "code": "04067",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Kings have no friends.\"",
@@ -149,7 +149,7 @@
     },
     {
         "code": "04068",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Azor Ahai has come again! All hail the Warrior of Light! All hail the Son of Fire!\" <cite>Melisandre</cite>",
@@ -167,7 +167,7 @@
     },
     {
         "code": "04069",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Since the hour he had arrived in the Red Keep, Lady Tanda had been stalking him, armed with a never-ending arsenal of lamprey pies, wild boars, and savory cream stews.",
@@ -189,7 +189,7 @@
     },
     {
         "code": "04070",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Shaving him was the cruelest thing Tyrion could have done...",
@@ -208,7 +208,7 @@
     },
     {
         "code": "04071",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"Listen! Listen to the waves! Listen to the god!\"",
@@ -230,7 +230,7 @@
     },
     {
         "code": "04072",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "The solar was as damp and drafty as ever.",
@@ -249,7 +249,7 @@
     },
     {
         "code": "04073",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"Come with me to the House of the Undying, and you shall drink of truth and wisdom.\"",
@@ -272,7 +272,7 @@
     },
     {
         "code": "04074",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "...in the place they named Vaes Tolorro, the city of bones.",
@@ -291,7 +291,7 @@
     },
     {
         "code": "04075",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -314,7 +314,7 @@
     },
     {
         "code": "04076",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -333,7 +333,7 @@
     },
     {
         "code": "04077",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -356,7 +356,7 @@
     },
     {
         "code": "04078",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -374,7 +374,7 @@
     },
     {
         "code": "04079",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

@@ -1,7 +1,7 @@
 [
     {
         "code": "02041",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "02042",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "In his wolf dreams, he could race up the sides of mountains, jagged icy mountains taller than any tower, and stand at the summit beneath the full moon with all the world below him, the way it used to be.",
@@ -43,7 +43,7 @@
     },
     {
         "code": "02043",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Sansa and Jayne Poole used to call them Ser Horror and Ser Slobber, and giggle whenever they caught sight of them. They did not look funny now.",
@@ -66,7 +66,7 @@
     },
     {
         "code": "02044",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -85,7 +85,7 @@
     },
     {
         "code": "02045",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -108,7 +108,7 @@
     },
     {
         "code": "02046",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"That's a longsword, not an old man's cane.\" <cite>Ser Alliser Thorne</cite>",
@@ -127,7 +127,7 @@
     },
     {
         "code": "02047",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "The king's own fool, the pie-faced simpleton called Moon Boy, danced about on stilts, all in motley, making mock of everyone with such deft cruelty that Sansa wondered if he was simple after all.",
@@ -172,7 +172,7 @@
     },
     {
         "code": "02049",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -195,7 +195,7 @@
     },
     {
         "code": "02050",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -214,7 +214,7 @@
     },
     {
         "code": "02051",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "designer": "Card design by 2003 World Champion, Casey Galvan.",
         "faction_code": "greyjoy",
@@ -238,7 +238,7 @@
     },
     {
         "code": "02052",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -257,7 +257,7 @@
     },
     {
         "code": "02053",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "Even the mightiest of khals bowed to the wisdom and authority of the dosh khaleen.",
@@ -280,7 +280,7 @@
     },
     {
         "code": "02054",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -299,7 +299,7 @@
     },
     {
         "code": "02055",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "Unless Prince Doran had attainted her, she remained the lawful heir to Sunspear; the man who married her would one day rule Dorne by her side.",
@@ -318,7 +318,7 @@
     },
     {
         "code": "02056",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -337,7 +337,7 @@
     },
     {
         "code": "02057",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -360,7 +360,7 @@
     },
     {
         "code": "02058",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "Any knight can make a knight...",

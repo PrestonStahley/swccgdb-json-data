@@ -1,7 +1,7 @@
 [
     {
         "code": "04101",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "Outriders spied the Manderly banners — the white merman with trident in hand, rising from a blue-green sea — and hailed them warmly.",
@@ -24,7 +24,7 @@
     },
     {
         "code": "04102",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "And the stars in the night were the eyes of his wolf, and the wind itself was their song.",
@@ -43,7 +43,7 @@
     },
     {
         "code": "04103",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -66,7 +66,7 @@
     },
     {
         "code": "04104",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "The candles within Renly's pavilion made the shimmering silken walls seem to glow, transforming the great tent into a magical castle alive with emerald light.",
@@ -85,7 +85,7 @@
     },
     {
         "code": "04105",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "designer": "Card design by 2009 Melee World Champion, Jonathan Benton.",
         "faction_code": "thenightswatch",
@@ -109,7 +109,7 @@
     },
     {
         "code": "04106",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -128,7 +128,7 @@
     },
     {
         "code": "04107",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -151,7 +151,7 @@
     },
     {
         "code": "04108",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -170,7 +170,7 @@
     },
     {
         "code": "04109",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Tyrion had never quite gotten over the suspicion that his father had inflicted the boy on him as a joke.",
@@ -193,7 +193,7 @@
     },
     {
         "code": "04110",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Gods save us, they've raised the chain.",
@@ -212,7 +212,7 @@
     },
     {
         "code": "04111",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -235,7 +235,7 @@
     },
     {
         "code": "04112",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"And you said you'd name her after me.\" <cite>Asha Greyjoy</cite>",
@@ -254,7 +254,7 @@
     },
     {
         "code": "04113",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"To go north, you must journey south, to reach the west you must go east. To go forward you must go back and to touch the light you must pass beneath the shadow.\"",
@@ -277,7 +277,7 @@
     },
     {
         "code": "04114",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -296,7 +296,7 @@
     },
     {
         "code": "04115",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "\"There have always been men who found it easier to speak vows than to keep them\"",
@@ -319,7 +319,7 @@
     },
     {
         "code": "04116",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "It took its name from the murky green of its sluggish waters; but as they approached, the sunlight seemed to turn those waters gold.",
@@ -338,7 +338,7 @@
     },
     {
         "code": "04117",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -361,7 +361,7 @@
     },
     {
         "code": "04118",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -380,7 +380,7 @@
     },
     {
         "code": "04119",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

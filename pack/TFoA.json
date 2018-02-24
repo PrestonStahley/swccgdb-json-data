@@ -1,7 +1,7 @@
 [
     {
         "code": "06041",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "She was strong and swift and fierce, and her pack was all around her, her brothers and her sisters.",
@@ -24,7 +24,7 @@
     },
     {
         "code": "06042",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "06043",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Megga was round and loud, Alla shy and pretty, but Elinor ruled the three by right of womanhood...",
@@ -66,7 +66,7 @@
     },
     {
         "code": "06044",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -85,7 +85,7 @@
     },
     {
         "code": "06045",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -108,7 +108,7 @@
     },
     {
         "code": "06046",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -127,7 +127,7 @@
     },
     {
         "code": "06047",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "The Bottom had a stench to it, a stink of pigsties and stables and tanner's sheds, mixed in with the sour smell of winesinks and cheap whorehouses.",
@@ -150,7 +150,7 @@
     },
     {
         "code": "06048",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "...for every one that broke the surface, a dozen lurked treacherously just below it. Any captain with sense kept his course well away from them.",
@@ -169,7 +169,7 @@
     },
     {
         "code": "06049",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -192,7 +192,7 @@
     },
     {
         "code": "06050",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -211,7 +211,7 @@
     },
     {
         "code": "06051",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"A dead enemy is a thing of beauty.\"",
@@ -234,7 +234,7 @@
     },
     {
         "code": "06052",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -253,7 +253,7 @@
     },
     {
         "code": "06053",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -276,7 +276,7 @@
     },
     {
         "code": "06054",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "06055",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -318,7 +318,7 @@
     },
     {
         "code": "06056",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -337,7 +337,7 @@
     },
     {
         "code": "06057",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -360,7 +360,7 @@
     },
     {
         "code": "06058",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -379,7 +379,7 @@
     },
     {
         "code": "06059",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

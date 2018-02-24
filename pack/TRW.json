@@ -1,7 +1,7 @@
 [
     {
         "code": "06061",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "\"I have fought beside the Young Wolf in every battle... He has not lost one yet.\"",
@@ -24,7 +24,7 @@
     },
     {
         "code": "06062",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "designer": "Card Design by 2015 Melee North American Champion, Brian Aurelio.",
         "faction_code": "stark",
@@ -44,7 +44,7 @@
     },
     {
         "code": "06063",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -67,7 +67,7 @@
     },
     {
         "code": "06064",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -86,7 +86,7 @@
     },
     {
         "code": "06065",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"Pick who you want, just so it's not me.\"",
@@ -109,7 +109,7 @@
     },
     {
         "code": "06066",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "So Castle Black had a wall of sorts at last...",
@@ -128,7 +128,7 @@
     },
     {
         "code": "06067",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -151,7 +151,7 @@
     },
     {
         "code": "06068",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -170,7 +170,7 @@
     },
     {
         "code": "06069",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -193,7 +193,7 @@
     },
     {
         "code": "06070",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -212,7 +212,7 @@
     },
     {
         "code": "06071",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -235,7 +235,7 @@
     },
     {
         "code": "06072",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -254,7 +254,7 @@
     },
     {
         "code": "06073",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"Killing makes Strong Belwas hungry.\"",
@@ -277,7 +277,7 @@
     },
     {
         "code": "06074",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -296,7 +296,7 @@
     },
     {
         "code": "06075",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -319,7 +319,7 @@
     },
     {
         "code": "06076",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -338,7 +338,7 @@
     },
     {
         "code": "06077",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"My honored guests. Be welcome beneath my roof, and at my table.\"",
@@ -361,7 +361,7 @@
     },
     {
         "code": "06078",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -384,7 +384,7 @@
     },
     {
         "code": "06079",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

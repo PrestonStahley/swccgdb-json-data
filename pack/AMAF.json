@@ -1,7 +1,7 @@
 [
     {
         "code": "06001",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "Her father was growing weaker and more delirious with every passing day, waking only to mutter, \"Tansy,\" and beg forgiveness.",
@@ -24,7 +24,7 @@
     },
     {
         "code": "06002",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "06003",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "Margaery's kindness had been unfailing, and her presence changed everything.",
@@ -66,7 +66,7 @@
     },
     {
         "code": "06004",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "\"...but the ones in motley are more amusing than ones with crowns.\" <cite>The Queen of Thorns</cite>",
@@ -85,7 +85,7 @@
     },
     {
         "code": "06005",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "Eastwatch was a better place to trade than Castle Black; that was where the ships came, laden with goods from the fabled lands beyond the sea.",
@@ -108,7 +108,7 @@
     },
     {
         "code": "06006",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -127,7 +127,7 @@
     },
     {
         "code": "06007",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -150,7 +150,7 @@
     },
     {
         "code": "06008",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"There are spells woven into the stones. Dark walls that no shadow can pass — ancient, forgotten, yet still in place.\" <cite>Melisandre</cite>",
@@ -169,7 +169,7 @@
     },
     {
         "code": "06009",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -192,7 +192,7 @@
     },
     {
         "code": "06010",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"The Blackfish was my Knight of the Gate, and since he left us the mountain clans are growing very bold.\" <cite>Lysa Arryn</cite>",
@@ -211,7 +211,7 @@
     },
     {
         "code": "06011",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"Comforts I shall know in the Drowned God's watery halls beneath the waves.\" <cite>Aeron Damphair</cite>",
@@ -234,7 +234,7 @@
     },
     {
         "code": "06012",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -253,7 +253,7 @@
     },
     {
         "code": "06013",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"Ours is the blood of ancient Ghis, whose empire was old when Valyria was yet a squalling child.\" <cite>Grazdan mo Eraz</cite>",
@@ -276,7 +276,7 @@
     },
     {
         "code": "06014",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "06015",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -318,7 +318,7 @@
     },
     {
         "code": "06016",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -337,7 +337,7 @@
     },
     {
         "code": "06017",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"You know nothing, Jon Snow.\"",

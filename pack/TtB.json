@@ -1,7 +1,7 @@
 [
     {
         "code": "02001",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"My mother told me that dead men sing no songs.\"",
@@ -24,7 +24,7 @@
     },
     {
         "code": "02002",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "02003",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -66,7 +66,7 @@
     },
     {
         "code": "02004",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -85,7 +85,7 @@
     },
     {
         "code": "02005",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -108,7 +108,7 @@
     },
     {
         "code": "02006",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -127,7 +127,7 @@
     },
     {
         "code": "02007",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"If you cannot keep the King's peace, Janos, perhaps the City Watch should be commanded by someone who can.\"",
@@ -150,7 +150,7 @@
     },
     {
         "code": "02008",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -169,7 +169,7 @@
     },
     {
         "code": "02009",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -192,7 +192,7 @@
     },
     {
         "code": "02010",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -211,7 +211,7 @@
     },
     {
         "code": "02011",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -252,7 +252,7 @@
     },
     {
         "code": "02013",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "At first the magisters and archons and merchant princes were pleased to welcome the last Targaryens to their homes and tables…",
@@ -275,7 +275,7 @@
     },
     {
         "code": "02014",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "…it was forbidden to carry a blade in Vaes Dothrak, or to shed a free man's blood.",
@@ -294,7 +294,7 @@
     },
     {
         "code": "02015",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -339,7 +339,7 @@
     },
     {
         "code": "02017",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -358,7 +358,7 @@
     },
     {
         "code": "02018",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

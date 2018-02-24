@@ -1,7 +1,7 @@
 [
     {
         "code": "02021",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "02022",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "02023",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -66,7 +66,7 @@
     },
     {
         "code": "02024",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -85,7 +85,7 @@
     },
     {
         "code": "02025",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -108,7 +108,7 @@
     },
     {
         "code": "02026",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -127,7 +127,7 @@
     },
     {
         "code": "02027",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "The visitors poured through the castle gates in a river of gold and silver and polished steel, three hundred strong, a pride of bannermen and knights, of sworn swords and freeriders.",
@@ -150,7 +150,7 @@
     },
     {
         "code": "02028",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -169,7 +169,7 @@
     },
     {
         "code": "02029",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -214,7 +214,7 @@
     },
     {
         "code": "02031",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "designer": "Card design by 2011 European Joust Champion, Martí Foz Hernandez.",
         "faction_code": "greyjoy",
@@ -238,7 +238,7 @@
     },
     {
         "code": "02032",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -257,7 +257,7 @@
     },
     {
         "code": "02033",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"As you say, I do, blood of my blood.\"",
@@ -280,7 +280,7 @@
     },
     {
         "code": "02034",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 1,
         "faction_code": "targaryen",
         "flavor": "",
@@ -299,7 +299,7 @@
     },
     {
         "code": "02035",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -322,7 +322,7 @@
     },
     {
         "code": "02036",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -341,7 +341,7 @@
     },
     {
         "code": "02037",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "\"Just so.\"",
@@ -364,7 +364,7 @@
     },
     {
         "code": "02038",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

@@ -1,7 +1,7 @@
 [
     {
         "code": "08061",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "08062",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "08063",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -66,7 +66,7 @@
     },
     {
         "code": "08064",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -85,7 +85,7 @@
     },
     {
         "code": "08065",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -108,7 +108,7 @@
     },
     {
         "code": "08066",
-        "cost": 0,
+        "cost": "0",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -127,7 +127,7 @@
     },
     {
         "code": "08067",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "",
@@ -150,7 +150,7 @@
     },
     {
         "code": "08068",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "The Valyrians had raised it, after all, and all their work stank of sorcery",
@@ -169,7 +169,7 @@
     },
     {
         "code": "08069",
-        "cost": 6,
+        "cost": "6",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -192,7 +192,7 @@
     },
     {
         "code": "08070",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "",
@@ -211,7 +211,7 @@
     },
     {
         "code": "08071",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -234,7 +234,7 @@
     },
     {
         "code": "08072",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "\"So long as I have my nuncle of Ten Towers, I have Harlaw.\" <cite>Asha Greyjoy</cite>",
@@ -253,7 +253,7 @@
     },
     {
         "code": "08073",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "\"We shall see how wise they are.\" <cite>Daenerys Targaryen</cite>",
@@ -276,7 +276,7 @@
     },
     {
         "code": "08074",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "08075",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -318,7 +318,7 @@
     },
     {
         "code": "08076",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "The well at Shandystone had gone dry a hundred years before...the sands had crept back in to reclaim their own.",
@@ -337,7 +337,7 @@
     },
     {
         "code": "08077",
-        "cost": 5,
+        "cost": "5",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -360,7 +360,7 @@
     },
     {
         "code": "08078",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",

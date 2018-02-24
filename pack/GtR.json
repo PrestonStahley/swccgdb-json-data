@@ -1,7 +1,7 @@
 [
     {
         "code": "06021",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -24,7 +24,7 @@
     },
     {
         "code": "06022",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "stark",
         "flavor": "",
@@ -43,7 +43,7 @@
     },
     {
         "code": "06023",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "",
@@ -66,7 +66,7 @@
     },
     {
         "code": "06024",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "tyrell",
         "flavor": "From his throne of bones the Lord of Death looked down on the murdered lord...",
@@ -85,7 +85,7 @@
     },
     {
         "code": "06025",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "\"Don't you call me that. I'm a mother, not a lady.\"",
@@ -108,7 +108,7 @@
     },
     {
         "code": "06026",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "thenightswatch",
         "flavor": "",
@@ -127,7 +127,7 @@
     },
     {
         "code": "06027",
-        "cost": 7,
+        "cost": "7",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"We choose light or we choose darkness. We choose good or we choose evil. We choose the true god or the false.\"",
@@ -150,7 +150,7 @@
     },
     {
         "code": "06028",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "baratheon",
         "flavor": "\"Lead us from the darkness, O my Lord. Fill our hearts with fire, so we may walk your shining path.\"",
@@ -169,7 +169,7 @@
     },
     {
         "code": "06029",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "\"Looking for your brother, Sandor?\"",
@@ -192,7 +192,7 @@
     },
     {
         "code": "06030",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "lannister",
         "flavor": "Even with the windows of the solar shuttered against the night, the chill in the room was palpable.",
@@ -211,7 +211,7 @@
     },
     {
         "code": "06031",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -234,7 +234,7 @@
     },
     {
         "code": "06032",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "greyjoy",
         "flavor": "",
@@ -253,7 +253,7 @@
     },
     {
         "code": "06033",
-        "cost": 3,
+        "cost": "3",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -276,7 +276,7 @@
     },
     {
         "code": "06034",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "targaryen",
         "flavor": "",
@@ -295,7 +295,7 @@
     },
     {
         "code": "06035",
-        "cost": 2,
+        "cost": "2",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -318,7 +318,7 @@
     },
     {
         "code": "06036",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "martell",
         "flavor": "",
@@ -337,7 +337,7 @@
     },
     {
         "code": "06037",
-        "cost": 4,
+        "cost": "4",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "Black Walder was a man who took what he wanted, even his brother's wife.",
@@ -360,7 +360,7 @@
     },
     {
         "code": "06038",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
@@ -379,7 +379,7 @@
     },
     {
         "code": "06039",
-        "cost": 1,
+        "cost": "1",
         "deck_limit": 3,
         "faction_code": "neutral",
         "flavor": "",
