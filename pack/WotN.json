@@ -652,7 +652,7 @@
         "is_intrigue": false,
         "is_loyal": false,
         "is_military": true,
-        "is_multiple": false,
+        "is_multiple": true,
         "is_power": true,
         "is_unique": true,
         "name": "Quentyn Martell",

@@ -61,7 +61,7 @@
         "quantity": 3,
         "strength": 3,
         "text": "While there are more <i>Summer</i> plot cards than <i>Winter</i> plot cards revealed, Knight of Summer gets +2 STR and gains renown.",
-        "traits": "Knight",
+        "traits": "Knight.",
         "type_code": "character"
     },
     {

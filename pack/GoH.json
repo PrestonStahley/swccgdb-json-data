@@ -303,7 +303,7 @@
         "is_intrigue": true,
         "is_loyal": false,
         "is_military": false,
-        "is_multiple": false,
+        "is_multiple": true,
         "is_power": true,
         "is_unique": true,
         "name": "Myrcella Baratheon",
