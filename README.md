@@ -1,67 +1,48 @@
-ThronesDB cards JSON data [![Build status](https://travis-ci.org/Alsciende/thronesdb-json-data.svg?branch=master)](https://travis-ci.org/Alsciende/thronesdb-json-data)
+SW:CCG DB cards JSON data
 =========
 
-The goal of this repository is to store [ThronesDB](https://thronesdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
-
-## Validating and formatting JSON
-
-Using python >=2.6, type in command line:
-
-```
-./validate.py --verbose --fix_formatting
-```
-
-The above script requires python package `jsonschema` which can be installed using `pip` via `pip install -U jsonschema`.
-
-You can also just try to follow the style existing files use when editing entries. They are all formatted and checked using the script above.
+The goal of this repository is to store [SW:CCG DB](https://swccgdb.com) card data in a format that can be easily updated by multiple people and their changes reviewed.
 
 ## Description of properties in schemas
 
 Required properties are in **bold**.
 
-#### Cycle schema
+#### Set schema
 
-* **code** - identifier of the cycle. One single lowercase word. Examples: `"core"`, `"westeros"`, `"war"`.
-* **name** - properly formatted name of the cycle. Examples: `"Core Set"`, `"Westeros Cycle"`, `"War of the Five Kings Cycle"`.
-* **position** - number of the cycle, counting in chronological order. For packs released outside of normal constructed play cycles (such as draft packs), the special cycle with position `0` should be used. Examples: `1` for Core Set, `4` for War of the Five Kings Cycle.
-* **size** - number of packs in the cycle. Examples: `1` for big boxes, `6` for regular chapter pack cycles.
-
-#### Pack schema
-
-* **code** - identifier of the pack. The acronym of the pack name, with matching case, except for Core Set. Examples: `"Core"` for Core Set, `"TKP"` for The King's Peace, `"WotN"` for Wolves of the North.
-* **cycle_code** - identifier of the cycle the pack belongs to. Must refer to one of the values from cycles' `"code"`. Examples: `"core"` for Core Set, `"westeros"` for Westeros Cycle.
-* **name** - properly formatted name of the pack. Examples: `"Core Set"`, `"Wolves of the North"`, `"The King's Peace"`.
-* **position** - number of the pack within the cycle. Examples: `1` for Core Set, `1` for Taking the Black from Westeros Cycle, `3` for For Family Honor from War of the Five Kings Cycle.
-* **released** - date when the pack was officially released by FFG. When in doubt, look at the date of the pack release news on FFG's news page. Format of the date is YYYY-MM-DD. May be `null` - this value is used when the date is unknown. Examples: `"2015-10-08"` for Core Set, `"2015-12-09"` for Taking the Black, `null` for unreleased previewed packs.
-* **size** - number of different cards in the pack. May be `null` - this value is used when the pack is just an organizational entity, not a physical pack.  Examples: `120` for Core Set, `55` for most deluxe expansions, `20` for most chapter packs, `null` for assorted draft cards.
+* **code** - identifier of the set. The acronym of the set name, with matching case. Examples: `"ANH"` for A New Hope, `"DS2"` for Death Star II, `"OTSD"` for Official Tournament Sealed Deck.
+* **name** - properly formatted name of the set. Examples: `"A New Hope"`, `"Death Star II"`, `"Official Tournament Sealed Deck"`.
+* **position** - number of the set. Example: `1` for Premiere.
+* **released** - date when the set was officially released. Format of the date is YYYY-MM-DD. May be `null` - this value is used when the date is unknown. Example: `"1995-12-01"` for Premire.
+* **size** - number of different cards in the set. May be `null` - this value is used when the pack is just an organizational entity, not a physical pack.  Examples: `324` for Premire, `null` for assorted draft cards.
 
 #### Card schema
 
-* claim - Plots only
+* ability
+* armor
+* characteristics
 * **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the cycle position, last three are position of the card within the cycle (printed on the card).
-* cost - Play cost of the card. Relevant for all cards except agendas and titles. May be `null` - this value is used when the card has a special, possibly variable, cost.
-* **deck_limit**
-* **faction_code**
-* flavor
-* illustrator
-* income - Plots only
-* initiative - Plots only
-* is_intrigue - Characters only
-* **is_loyal**
-* is_military - Characters only
-* **is_multiple** - Indicates whether multiple cards have the same name
-* is_power - Characters only
-* **is_unique**
+* darkSideIcons
+* deploy - Deploy cost of the card. May be `null` - this value is used when the card has a special, possibly variable, cost.
+* destiny
+* **faction_code** - Possible values: `"light"`, `"dark"`
+* forfeit
+* lore
+* gametext
+* hyperspeed
+* icons
+* landspeed
+* lightSideIcons
+* maneuver
 * **name**
-* octgn_id
-* **pack_code**
+* parsec
+* politics
 * **position**
-* **quantity**
-* reserve - Plots only
-* strength - Characters only
-* text
-* traits
-* **type_code** - Type of the card. Possible values: `"agenda"`, `"attachment"`, `"character"`, `"event"`, `"location"`, `"plot"`, `"title"`
+* power
+* **rarity_code** - Card rarity. Possible values: `"F"`, `"C"`, `"C1"`, `"C2"`, `"C3"`, `"U"`, `"U1"`, `"U2"`, `"Ur"`, `"R"`, `"R1"`, `"R2"`, `"Xr"`, `"Pm"`
+* **set_code** - Example: `"ANH"` for A New Hope.
+* subType
+* **type_code** - Type of the card. Possible values: `"Admiral's Order"`, `"Character"`, `"Creature"`, `"Defensive Shield"`, `"Device"`, `"Effect"`, `"Epic Event"`, `"Interrupt"`, `"Jedi Test"`, `"Location"`, `"Objective"`, `"Podracer"`, `"Starship"`, `"Vehicle"`, `"Weapon"`
+* uniqueness
 
 ## JSON text editing tips
 
@@ -75,27 +56,21 @@ To get the 4-letter hexcode of a UTF-8 symbol (or look up what a particular hexc
 
 #### Quotes and breaking text into multiple lines
 
-To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"Winter is Coming.\"\n-Eddard Stark"` results in following flavor text:
+To have text spanning multiple lines, use `\n` to separate them. To have quotes as part of the text, use `\"`.  For example, `"flavor": "\"If you only knew the power of the dark side.\"\n-Darth Vader"` results in following flavor text:
 
-> *"Winter is coming."*  
-> *-Eddard Stark*
+> *"If you only knew the power of the dark side."*  
+> *-Darth Vader*
 
-#### A Game of Thrones symbols
+#### SW:CCG symbols
 
 These can be used in a card's `text` section.
 
- * `[baratheon]`
- * `[intrigue]`
- * `[greyjoy]`
- * `[lannister]`
- * `[martell]`
- * `[military]`
- * `[thenightswatch]`
- * `[power]`
- * `[stark]`
- * `[targaryen]`
- * `[tyrell]`
  * `[unique]`
+ * `[restricted]`
+ * `[maintain]`
+ * `[recycle]`
+ * `[sacrifice]`
+
 
 #### Translations
 
