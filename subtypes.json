@@ -85,7 +85,7 @@
   },
   {
      "code":"lost-or-starting",
-     "name":"Lost Or Starting"
+     "name":"Lost or Starting"
   },
   {
      "code":"Mobile",
@@ -136,10 +136,6 @@
      "name":"Starfighter"
   },
   {
-     "code":"starfigther",
-     "name":"Starfigther"
-  },
-  {
      "code":"starship",
      "name":"Starship"
   },
@@ -158,14 +154,6 @@
   {
      "code":"used",
      "name":"Used"
-  },
-  {
-     "code":"used-or-lost",
-     "name":"Used Or Lost"
-  },
-  {
-     "code":"used-or-starting",
-     "name":"Used Or Starting"
   },
   {
      "code":"used-or-lost",

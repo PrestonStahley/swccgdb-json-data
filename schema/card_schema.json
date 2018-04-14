@@ -1,11 +1,43 @@
 {
     "additionalProperties": false,
     "properties": {
-        "claim": {
+        "ability": {
             "oneOf": [
                 {
                     "minimum": 0,
                     "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "armor": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "characteristics": {
+            "oneOf": [
+                {
+                    "minLength": 0,
+                    "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "clone_army": {
+            "oneOf": [
+                {
+                    "type": "boolean"
                 },
                 {
                     "type": "null"
@@ -16,7 +48,7 @@
             "pattern": "^[0-9]{5}$",
             "type": "string"
         },
-        "cost": {
+        "dark_side_icons": {
             "oneOf": [
                 {
                     "minimum": 0,
@@ -27,50 +59,149 @@
                 }
             ]
         },
-        "deck_limit": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "designer": {
+        "dark_side_text": {
             "oneOf": [
                 {
-                    "minLength": 0,
-                    "type": "string"
+                  "minLength": 0,
+                  "type": "string"
                 },
                 {
                     "type": "null"
                 }
             ]
         },
-        "faction_code": {
-            "enum": [
-                "baratheon",
-                "greyjoy",
-                "lannister",
-                "martell",
-                "neutral",
-                "thenightswatch",
-                "stark",
-                "targaryen",
-                "tyrell"
+        "defense_value": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
             ]
         },
-        "flavor": {
+        "defense_value_name": {
+            "oneOf": [
+                {
+                  "minLength": 0,
+                  "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "deploy": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "destiny": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "episode_1": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "episode_7": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "ferocity": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "first_order": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "force_aptitude": {
+            "oneOf": [
+                {
+                  "minLength": 0,
+                  "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "forfeit": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "gametext": {
             "minLength": 0,
             "type": "string"
         },
-        "illustrator": {
-            "oneOf": [
-                {
-                    "minLength": 0,
-                    "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+        "grabber": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
         },
-        "income": {
+        "has_errata": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "hyperspeed": {
             "oneOf": [
                 {
                     "minimum": 0,
@@ -81,62 +212,382 @@
                 }
             ]
         },
-        "initiative": {
-            "minimum": 0,
-            "type": "integer"
-        },
-        "is_intrigue": {
-            "type": "boolean"
-        },
-        "is_loyal": {
-            "type": "boolean"
-        },
-        "is_military": {
-            "type": "boolean"
-        },
-        "is_multiple": {
-            "type": "boolean"
-        },
-        "is_power": {
-            "type": "boolean"
-        },
-        "is_unique": {
-            "type": "boolean"
-        },
-        "name": {
-            "minLength": 1,
+        "image_url": {
+            "minLength": 0,
             "type": "string"
         },
-        "octgn_id": {
+        "independent": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "landspeed": {
             "oneOf": [
                 {
-                    "maxLength": 36,
-                    "minLength": 36,
-                    "type": "string"
+                    "minimum": 0,
+                    "type": "integer"
                 },
                 {
                     "type": "null"
                 }
             ]
         },
-        "pack_code": {
+        "light_side_icons": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "light_side_text": {
+            "oneOf": [
+                {
+                  "minLength": 0,
+                  "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "lore": {
+            "oneOf": [
+                {
+                  "minLength": 0,
+                  "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "maneuver": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "mobile": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "model_type": {
+            "oneOf": [
+                {
+                  "minLength": 0,
+                  "type": "string"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "name": {
+            "minLength": 0,
+            "type": "string"
+        },
+        "nav_computer": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "permanent_weapon": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "pilot": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "planet": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "politics": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "power": {
+            "oneOf": [
+                {
+                    "minimum": 0,
+                    "type": "integer"
+                },
+                {
+                    "type": "null"
+                }
+            ]
+        },
+        "presence": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "rarity_code": {
+            "enum": [
+                "c",
+                "c1",
+                "c2",
+                "F",
+                "PM",
+                "PM2",
+                "PM3",
+                "PM5",
+                "PV",
+                "R",
+                "R1",
+                "R2",
+                "U",
+                "U1",
+                "U2",
+                "UR",
+                "XR"
+            ]
+        },
+        "republic": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "resistance": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "scomp_link": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "selective": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "separatist": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "set_code": {
             "maxLength": 5,
             "minLength": 2,
             "type": "string"
         },
-        "position": {
-            "minimum": 1,
-            "type": "integer"
+        "side_code": {
+            "enum": [
+                "light",
+                "dark"
+            ]
         },
-        "quantity": {
-            "minimum": 1,
-            "type": "integer"
+        "site_creature": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
         },
-        "reserve": {
-            "minimum": 0,
-            "type": "integer"
+        "site_exterior": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
         },
-        "strength": {
+        "site_interior": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "site_starship": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "site_underground": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "site_underwater": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "site_vehicle": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "space": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
+        },
+        "subtype_code": {
+            "enum": [
+              "alien",
+              "alien-imperial",
+              "alien-rebel",
+              "alien-resistance",
+              "artillery",
+              "automated",
+              "capital",
+              "character",
+              "combat",
+              "creature",
+              "dark-jedi-master",
+              "death-star",
+              "death-star-II",
+              "droid",
+              "first-order",
+              "immediate",
+              "imperial",
+              "jedi",
+              "jedi-master",
+              "jedi-master-imperial",
+              "lost",
+              "lost-or-starting",
+              "mobile",
+              "political",
+              "rebel",
+              "rebel-republic",
+              "republic",
+              "resistance",
+              "sector",
+              "shuttle",
+              "site",
+              "sith",
+              "squadron",
+              "starfighter",
+              "starship",
+              "starting",
+              "system",
+              "transport",
+              "used",
+              "used-or-lost",
+              "used-or-starting",
+              "utinni",
+              "vehicle"
+            ]
+        },
+        "system_parsec": {
             "oneOf": [
                 {
                     "minimum": 0,
@@ -147,40 +598,61 @@
                 }
             ]
         },
-        "text": {
-            "minLength": 0,
-            "type": "string"
-        },
-        "traits": {
-            "minLength": 0,
-            "type": "string"
+        "trade_federation": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
         },
         "type_code": {
             "enum": [
-                "agenda",
-                "attachment",
-                "character",
-                "event",
-                "location",
-                "plot",
-                "title"
+              "admirals-order",
+              "character",
+              "creature",
+              "defensive-shield",
+              "device",
+              "effect",
+              "epic-event",
+              "interrupt",
+              "jedi-test",
+              "location",
+              "objective",
+              "podracer",
+              "starship",
+              "vehicle",
+              "weapon"
             ]
+        },
+        "uniqueness": {
+            "minLength": 0,
+            "type": "string"
+        },
+        "warrior": {
+          "oneOf": [
+              {
+                  "type": "boolean"
+              },
+              {
+                  "type": "null"
+              }
+          ]
         }
     },
     "required": [
         "code",
-        "deck_limit",
-        "is_loyal",
-        "is_multiple",
-        "is_unique",
+        "gametext",
+        "has_errata",
+        "image_url",
         "name",
-        "position",
-        "quantity",
-        "faction_code",
-        "pack_code",
-        "text",
-        "traits",
-        "type_code"
+        "rarity_code",
+        "set_code",
+        "side_code",
+        "type_code",
+        "uniqueness"
     ],
     "type": "object"
 }

@@ -1,6 +1,6 @@
 [
     {
-        "code": "premiere",
+        "code": "pr",
         "cycle_code": "full",
         "date_release": "1995-12-01",
         "name": "Premiere",
@@ -104,7 +104,7 @@
         "size": 6
     },
     {
-        "code": "jedipack",
+        "code": "jpack",
         "cycle_code": "premium",
         "date_release": "1996-01-01",
         "name": "Jedi Pack",
