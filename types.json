@@ -1,30 +1,62 @@
 [
     {
-        "code": "agenda",
-        "name": "Agenda"
-    },
-    {
-        "code": "attachment",
-        "name": "Attachment"
+        "code": "admirals-order",
+        "name": "Admiral's Order"
     },
     {
         "code": "character",
         "name": "Character"
     },
     {
-        "code": "event",
-        "name": "Event"
+        "code": "creature",
+        "name": "Creature"
+    },
+    {
+        "code": "defensive-shield",
+        "name": "Defensive Shield"
+    },
+    {
+        "code": "device",
+        "name": "Device"
+    },
+    {
+        "code": "effect",
+        "name": "Effect"
+    },
+    {
+        "code": "epic-event",
+        "name": "Epic Event"
+    },
+    {
+        "code": "interrupt",
+        "name": "Interrupt"
+    },
+    {
+        "code": "jedi-test",
+        "name": "Jedi Test"
     },
     {
         "code": "location",
         "name": "Location"
     },
     {
-        "code": "plot",
-        "name": "Plot"
+        "code": "objective",
+        "name": "Objective"
     },
     {
-        "code": "title",
-        "name": "Title"
+        "code": "podracer",
+        "name": "Podracer"
+    },
+    {
+        "code": "starship",
+        "name": "Starship"
+    },
+    {
+        "code": "vehicle",
+        "name": "Vehicle"
+    },
+    {
+        "code": "weapon",
+        "name": "Weapon"
     }
 ]
