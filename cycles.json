@@ -1,68 +1,20 @@
 [
     {
-        "code": "draft",
-        "name": "Draft Sets",
-        "position": 0,
-        "size": 1
-    },
-    {
-        "code": "core",
-        "name": "Core Set",
+        "code": "full",
+        "name": "Full Sets",
         "position": 1,
-        "size": 1
+        "size": 12
     },
     {
-        "code": "westeros",
-        "name": "Westeros Cycle",
+        "code": "premium",
+        "name": "Premium Sets",
         "position": 2,
-        "size": 6
+        "size": 12
     },
     {
-        "code": "wolves",
-        "name": "Wolves of the North",
+        "code": "virtual",
+        "name": "Virtual Sets",
         "position": 3,
-        "size": 1
+        "size": 0
     },
-    {
-        "code": "war",
-        "name": "War of Five Kings Cycle",
-        "position": 4,
-        "size": 6
-    },
-    {
-        "code": "lions",
-        "name": "Lions of Casterly Rock",
-        "position": 5,
-        "size": 1
-    },
-    {
-        "code": "bng",
-        "name": "Blood and Gold",
-        "position": 6,
-        "size": 6
-    },
-    {
-        "code": "watchers",
-        "name": "Watchers on the Wall",
-        "position": 7,
-        "size": 1
-    },
-    {
-        "code": "foc",
-        "name": "Flight of Crows",
-        "position": 8,
-        "size": 6
-    },
-    {
-        "code": "thorns",
-        "name": "House of Thorns",
-        "position": 9,
-        "size": 1
-    },
-    {
-        "code": "sands",
-        "name": "Sands of Dorne",
-        "position": 10,
-        "size": 1
-    }
 ]

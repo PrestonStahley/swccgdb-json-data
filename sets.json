@@ -1,0 +1,194 @@
+[
+    {
+        "code": "premiere",
+        "cycle_code": "full",
+        "date_release": "1995-12-01",
+        "name": "Premiere",
+        "position": 1,
+        "size": 324
+    },
+    {
+        "code": "anh",
+        "cycle_code": "full",
+        "date_release": "1996-01-01",
+        "name": "A New Hope",
+        "position": 2,
+        "size": 162
+    },
+    {
+        "code": "hoth",
+        "cycle_code": "full",
+        "date_release": "1996-01-01",
+        "name": "Hoth",
+        "position": 3,
+        "size": 162
+    },
+    {
+        "code": "dah",
+        "cycle_code": "full",
+        "date_release": "1997-04-23",
+        "name": "Dagobah",
+        "position": 4,
+        "size": 180
+    },
+    {
+        "code": "cc",
+        "cycle_code": "full",
+        "date_release": "1997-01-01",
+        "name": "Cloud City",
+        "position": 5,
+        "size": 180
+    },
+    {
+        "code": "jp",
+        "cycle_code": "full",
+        "date_release": "1998-01-01",
+        "name": "Jabba's Palace",
+        "position": 6,
+        "size": 180
+    },
+    {
+        "code": "se",
+        "cycle_code": "full",
+        "date_release": "1998-01-01",
+        "name": "Special Edition",
+        "position": 7,
+        "size": 324
+    },
+    {
+        "code": "edr",
+        "cycle_code": "full",
+        "date_release": "1999-01-01",
+        "name": "Endor",
+        "position": 8,
+        "size": 180
+    },
+    {
+        "code": "ds2",
+        "cycle_code": "full",
+        "date_release": "2000-01-01",
+        "name": "Death Star II",
+        "position": 9,
+        "size": 182
+    },
+    {
+        "code": "tat",
+        "cycle_code": "full",
+        "date_release": "2001-01-01",
+        "name": "Tatooine",
+        "position": 10,
+        "size": 90
+    },
+    {
+        "code": "cor",
+        "cycle_code": "full",
+        "date_release": "2001-01-01",
+        "name": "Coruscant",
+        "position": 11,
+        "size": 180
+    },
+    {
+        "code": "tp",
+        "cycle_code": "full",
+        "date_release": "2001-01-01",
+        "name": "Theed Palace",
+        "position": 12,
+        "size": 120
+    },
+    {
+        "code": "2pp",
+        "cycle_code": "premium",
+        "date_release": "1995-12-01",
+        "name": "Premiere Two-Player Game",
+        "position": 1,
+        "size": 6
+    },
+    {
+        "code": "jedipack",
+        "cycle_code": "premium",
+        "date_release": "1996-01-01",
+        "name": "Jedi Pack",
+        "position": 2,
+        "size": 10
+    },
+    {
+        "code": "2pesb",
+        "cycle_code": "premium",
+        "date_release": "1996-01-01",
+        "name": "The Empire Strikes Back Two-Player Game",
+        "position": 3,
+        "size": 7
+    },
+    {
+        "code": "rlp",
+        "cycle_code": "premium",
+        "date_release": "1997-01-01",
+        "name": "Rebel Leaders pack",
+        "position": 4,
+        "size": 2
+    },
+    {
+        "code": "otsd",
+        "cycle_code": "premium",
+        "date_release": "1998-01-01",
+        "name": "Official Tournament Sealed Deck",
+        "position": 5,
+        "size": 18
+    },
+    {
+        "code": "epp",
+        "cycle_code": "premium",
+        "date_release": "1998-01-01",
+        "name": "Enhanced Premiere",
+        "position": 6,
+        "size": 6
+    },
+    {
+        "code": "ecc",
+        "cycle_code": "premium",
+        "date_release": "1999-01-01",
+        "name": "Enhanced Cloud City",
+        "position": 7,
+        "size": 12
+    },
+    {
+        "code": "ejp",
+        "cycle_code": "premium",
+        "date_release": "1999-01-01",
+        "name": "Enhanced Jabba's Palace",
+        "position": 8,
+        "size": 12
+    },
+    {
+        "code": "jpsd",
+        "cycle_code": "premium",
+        "date_release": "2000-01-01",
+        "name": "Jabba's Palace Sealed Deck",
+        "position": 9,
+        "size": 20
+    },
+    {
+        "code": "ref2",
+        "cycle_code": "premium",
+        "date_release": "2000-01-01",
+        "name": "Reflections II",
+        "position": 10,
+        "size": 54
+    },
+    {
+        "code": "ta",
+        "cycle_code": "premium",
+        "date_release": "2000-01-01",
+        "name": "Third Anthology",
+        "position": 11,
+        "size": 6
+    },
+    {
+        "code": "ref3",
+        "cycle_code": "premium",
+        "date_release": "2001-01-01",
+        "name": "Reflections III",
+        "position": 12,
+        "size": 100
+    },
+]
