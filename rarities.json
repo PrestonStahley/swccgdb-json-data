@@ -1,0 +1,72 @@
+[
+    {
+        "code": "C",
+        "name": "Common"
+    },
+    {
+        "code": "C1",
+        "name": "Common"
+    },
+    {
+        "code": "C2",
+        "name": "Common"
+    },
+    {
+        "code": "F",
+        "name": "Fixed",
+        "details": "available only in preconstructed Starter Decks"
+    },
+    {
+        "code": "PM",
+        "name": "Premium"
+    },
+    {
+        "code": "PM2",
+        "name": "Premium"
+    },
+    {
+        "code": "PM3",
+        "name": "Premium"
+    },
+    {
+        "code": "PM5",
+        "name": "Premium"
+    },
+    {
+        "code": "PV",
+        "name": "Preview"
+    },
+    {
+        "code": "R",
+        "name": "Rare"
+    },
+    {
+        "code": "R1",
+        "name": "Common"
+    },
+    {
+        "code": "R2",
+        "name": "Common"
+    },
+    {
+        "code": "U",
+        "name": "Uncommon"
+    },
+    {
+        "code": "U1",
+        "name": "Common"
+    },
+    {
+        "code": "U2",
+        "name": "Common"
+    },
+    {
+        "code": "UR",
+        "name": "Ultra-Rare"
+    },
+    {
+        "code": "XR",
+        "name": "Exclusive Rare",
+        "details": "available only in preconstructed Starter Decks"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "code": "light",
+        "name": "Light"
+    },
+    {
+        "code": "dark",
+        "name": "Dark"
+    }
+]
