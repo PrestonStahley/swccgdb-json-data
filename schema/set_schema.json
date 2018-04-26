@@ -29,6 +29,10 @@
             "minimum": 1,
             "type": "integer"
         },
+        "id": {
+            "minimum": 1,
+            "type": "integer"
+        },
         "size": {
             "oneOf": [
                 {
@@ -47,6 +51,7 @@
         "cycle_code",
         "name",
         "position",
+        "id",
         "size"
     ],
     "type": "object"
