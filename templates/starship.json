@@ -20,7 +20,7 @@
     "model_type": "",
     "nav_computer": true,
     "name": "",
-    "pilot": true,
+    "pilot": false,
     "power": X,
     "presence": false,
     "rarity_code": "",

@@ -12,6 +12,10 @@
         "name": "Common"
     },
     {
+        "code": "C3",
+        "name": "Common"
+    },
+    {
         "code": "F",
         "name": "Fixed",
         "details": "available only in preconstructed Starter Decks"
