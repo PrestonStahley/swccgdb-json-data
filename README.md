@@ -27,65 +27,65 @@ Required properties are in **bold**.
 #### Card schema
 
 * **code** - 5 digit card identifier. Consists of two zero-padded numbers: first two digits are the set id, last three are position of the card within the set. Set position is based on Decipher card list order: All light side cards in alphabetical order, followed by all dark side cards in alphabetical order.
-* ability
-* armor
+* ability - Character, Starship, Vehicle only.
+* armor - Character, Starship, Vehicle only.
 * characteristics
-* clone_army
-* dark_side_icons
-* dark_side_text
-* defense_value
-* defense_value_name
+* clone_army - Character, Starship only.
+* dark_side_icons - Location only.
+* dark_side_text - Location only.
+* defense_value - Creature only.
+* defense_value_name - Creature only.
 * deploy - Deploy cost of the card. May be `null` - this value is used when the card has a special, possibly variable, cost.
-* destiny
+* destiny - Destiny value of the card. May be `null` - this value is used when the card has a special, possibly variable, cost.
 * episode_1
 * episode_7
-* ferocity
-* first_order
-* force_aptitude
-* forfeit
+* ferocity - Creature only. May be `null` - this value is used when the card has a special, possibly variable, cost.
+* first_order - Starship only.
+* force_aptitude - Character only.
+* forfeit - Forfeit value of the card. May be `null` - this value is used when the card has a special, possibly variable, cost.
 * **gametext**
-* grabber
+* grabber - Effect, Defensive Shield only.
 * **has_errata**
-* hyperspeed
+* hyperspeed - Starship only.
 * **image_url**
-* independent
-* landspeed
-* light_side_icons
-* light_side_text
+* independent - Starship only.
+* landspeed - Vehicle only. May be `null` - this value is used when the card has a special, possibly variable, cost.
+* light_side_icons - Location only.
+* light_side_text - Location only.
 * lore
-* maneuver
-* mobile
-* model_type
+* maneuver - Character, Starship only.
+* mobile - Location only.
+* model_type - Character, Creature, Starship, Vehicle only.
 * **name**
-* nav_computer
-* permanent_weapon
-* pilot
-* planet
-* politics
-* power
-* presence
-* **rarity_code**
-* republic
+* nav_computer - Character, Starship only.
+* permanent_weapon - Character only.
+* pilot - Character, Starship, Vehicle only
+* planet - Location only.
+* politics - Character only.
+* power - Character, Starship, Vehicle only. May be `null` - this value is used when the card has a special, possibly variable, cost.
+* presence - Character, Starship, Vehicle only.
+* **rarity_code** - Possible values: `"C"`, `"C1"` `"C2"`, `"C3"` `"U"`, `"U1"` `"U2"`, `"R"` `"R1"`, `"R2"` `"F"`, `"PM"` `"PM2"`, `"PM3"`, `"PM3"`, `"PM5"`, `"PV"`, `"UR"`, `"XR"`.
+* republic - Character, Starship only.
 * resistance
-* scomp_link
-* selective
-* separatist
+* scomp_link - Starship, Vehicle, Location only.
+* selective - Creature only.
+* separatist - Character only.
 * **set_code**
-* **side_code** - Possible values: `"light"`, `"dark"`
-* site_creature
-* site_exterior
-* site_interior
-* site_starship
-* site_underground
-* site_underwater
-* site_vehicle
-* space
+* **side_code** - Possible values: `"light"`, `"dark"`.
+* site_creature - Location only.
+* site_exterior - Location only.
+* site_interior - Location only.
+* site_starship - Location only.
+* site_underground - Location only.
+* site_underwater - Location only.
+* site_vehicle - Location only.
+* space - Location only.
 * subtype_code
-* system_parsec
-* trade_federation
+* system_parsec - Location only. May be `null` - this value is used when the card has a special, possibly variable, cost.
+* trade_federation - Starship only.
 * **type_code**
 * **uniqueness**
-* warrior
+* warrior - Character only.
 
 ## JSON text editing tips
 

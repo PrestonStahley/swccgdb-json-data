@@ -2,95 +2,39 @@
     "additionalProperties": false,
     "properties": {
         "ability": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minimum": 0,
+          "type": "integer"
         },
         "armor": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minimum": 0,
+          "type": "integer"
         },
         "characteristics": {
-            "oneOf": [
-                {
-                    "minLength": 0,
-                    "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minLength": 0,
+          "type": "string"
         },
         "clone_army": {
-            "oneOf": [
-                {
-                    "type": "boolean"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "type": "boolean"
         },
         "code": {
             "pattern": "^[0-9]{5}$",
             "type": "string"
         },
         "dark_side_icons": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minimum": 0,
+          "type": "integer"
         },
         "dark_side_text": {
-            "oneOf": [
-                {
-                  "minLength": 0,
-                  "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minLength": 0,
+          "type": "string"
         },
         "defense_value": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minimum": 0,
+          "type": "integer"
         },
         "defense_value_name": {
-            "oneOf": [
-                {
-                  "minLength": 0,
-                  "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minLength": 0,
+          "type": "string"
         },
         "deploy": {
             "oneOf": [
@@ -115,24 +59,10 @@
             ]
         },
         "episode_1": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "episode_7": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "ferocity": {
             "oneOf": [
@@ -146,25 +76,11 @@
             ]
         },
         "first_order": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "force_aptitude": {
-            "oneOf": [
-                {
-                  "minLength": 0,
-                  "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minLength": 0,
+          "type": "string"
         },
         "forfeit": {
             "oneOf": [
@@ -182,49 +98,21 @@
             "type": "string"
         },
         "grabber": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "has_errata": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "hyperspeed": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minimum": 0,
+          "type": "integer"
         },
         "image_url": {
             "minLength": 0,
             "type": "string"
         },
         "independent": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "landspeed": {
             "oneOf": [
@@ -238,124 +126,47 @@
             ]
         },
         "light_side_icons": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minimum": 0,
+          "type": "integer"
         },
         "light_side_text": {
-            "oneOf": [
-                {
-                  "minLength": 0,
-                  "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minLength": 0,
+          "type": "string"
         },
         "lore": {
-            "oneOf": [
-                {
-                  "minLength": 0,
-                  "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minLength": 0,
+          "type": "string"
         },
         "maneuver": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minimum": 0,
+          "type": "integer"
         },
         "mobile": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "model_type": {
-            "oneOf": [
-                {
-                  "minLength": 0,
-                  "type": "string"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minLength": 0,
+          "type": "string"
         },
         "name": {
             "minLength": 0,
             "type": "string"
         },
         "nav_computer": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "permanent_weapon": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "pilot": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "planet": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "politics": {
-            "oneOf": [
-                {
-                    "minimum": 0,
-                    "type": "integer"
-                },
-                {
-                    "type": "null"
-                }
-            ]
+          "minimum": 0,
+          "type": "integer"
         },
         "power": {
             "oneOf": [
@@ -369,14 +180,7 @@
             ]
         },
         "presence": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "rarity_code": {
             "enum": [
@@ -401,54 +205,19 @@
             ]
         },
         "republic": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "resistance": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "scomp_link": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "selective": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "separatist": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "set_code": {
             "maxLength": 5,
@@ -462,84 +231,28 @@
             ]
         },
         "site_creature": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "site_exterior": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "site_interior": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "site_starship": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "site_underground": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "site_underwater": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "site_vehicle": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "space": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "subtype_code": {
             "enum": [
@@ -600,14 +313,7 @@
             ]
         },
         "trade_federation": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         },
         "type_code": {
             "enum": [
@@ -633,14 +339,7 @@
             "type": "string"
         },
         "warrior": {
-          "oneOf": [
-              {
-                  "type": "boolean"
-              },
-              {
-                  "type": "null"
-              }
-          ]
+          "type": "boolean"
         }
     },
     "required": [
