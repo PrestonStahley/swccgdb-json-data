@@ -17,8 +17,7 @@
     },
     {
         "code": "F",
-        "name": "Fixed",
-        "details": "available only in preconstructed Starter Decks"
+        "name": "Fixed"
     },
     {
         "code": "PM",
@@ -70,7 +69,6 @@
     },
     {
         "code": "XR",
-        "name": "Exclusive Rare",
-        "details": "available only in preconstructed Starter Decks"
+        "name": "Exclusive Rare"
     }
 ]
