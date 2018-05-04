@@ -62,6 +62,7 @@ Required properties are in **bold**.
 * pilot - Character, Starship, Vehicle only
 * planet - Location only.
 * politics - Character only.
+* **position**
 * power - Character, Starship, Vehicle only. May be `null` - this value is used when the card has a special, possibly variable, cost.
 * presence - Character, Starship, Vehicle only.
 * **rarity_code** - Possible values: `"C"`, `"C1"` `"C2"`, `"C3"` `"U"`, `"U1"` `"U2"`, `"R"` `"R1"`, `"R2"` `"F"`, `"PM"` `"PM2"`, `"PM3"`, `"PM3"`, `"PM5"`, `"PV"`, `"UR"`, `"XR"`.
