@@ -12,6 +12,10 @@ foreach ($set as $key => $value) {
       $set[$key][$prop] = kebabCase($val);
     }
 
+    if ($prop == 'position') {
+      $set[$key][$prop] = (int)$val;
+    }
+
     if ($prop == 'rarity_code') {
       if($val == 'Common') { $set[$key][$prop] = 'C'; }
       if($val == 'Common1') { $set[$key][$prop] = 'C1'; }

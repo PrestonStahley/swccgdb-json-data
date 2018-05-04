@@ -14,6 +14,7 @@
     "mobile": false,
     "name": "",
     "planet": true,
+    "position": X,
     "rarity_code": "",
     "set_code": "",
     "side_code": "",

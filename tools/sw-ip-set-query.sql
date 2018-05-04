@@ -71,6 +71,6 @@ Warrior as warrior
 FROM SWD db WHERE Expansion = 'Premiere' ORDER BY Grouping DESC, CardName ASC;
 
 CREATE TABLE tmp2 AS
-SELECT '01'||substr('000'||rowid, -3, 3) as code, * FROM tmp1 ORDER BY side_code DESC, name ASC;
+SELECT '01'||substr('000'||rowid, -3, 3) as code, rowid as position, * FROM tmp1 ORDER BY side_code DESC, name ASC;
 
 SELECT * FROM tmp2 ORDER BY code ASC;

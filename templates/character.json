@@ -21,6 +21,7 @@
     "permanent_weapon": false,
     "pilot": false,
     "politics": X,
+    "position": X,
     "power": X,
     "presence": false,
     "rarity_code": "",

@@ -168,6 +168,10 @@
           "minimum": 0,
           "type": "integer"
         },
+        "position": {
+          "minimum": 0,
+          "type": "integer"
+        },
         "power": {
             "oneOf": [
                 {
@@ -348,6 +352,7 @@
         "has_errata",
         "image_url",
         "name",
+        "position",
         "rarity_code",
         "set_code",
         "side_code",

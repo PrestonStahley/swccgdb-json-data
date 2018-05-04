@@ -21,6 +21,7 @@
     "nav_computer": true,
     "name": "",
     "pilot": false,
+    "position": X,
     "power": X,
     "presence": false,
     "rarity_code": "",
