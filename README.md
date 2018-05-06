@@ -35,14 +35,14 @@ Required properties are in **bold**.
 * dark_side_text - Location only.
 * defense_value - Creature only.
 * defense_value_name - Creature only.
-* deploy - Deploy cost of the card. May be `null` - this value is used when the card has a special, possibly variable, cost.
+* deploy - Deploy cost of the card. Character, Creature, Starship, Vehicle, Weapon only. May be `null` - this value is used when the card has a special, possibly variable, cost.
 * destiny - Destiny value of the card. May be `null` - this value is used when the card has a special, possibly variable, cost.
 * episode_1
 * episode_7
 * ferocity - Creature only. May be `null` - this value is used when the card has a special, possibly variable, cost.
 * first_order - Starship only.
 * force_aptitude - Character only.
-* forfeit - Forfeit value of the card. May be `null` - this value is used when the card has a special, possibly variable, cost.
+* forfeit - Forfeit value of the card. Character, Creature, Starship, Vehicle, Weapon only. May be `null` - this value is used when the card has a special, possibly variable, cost.
 * **gametext**
 * grabber - Effect, Defensive Shield only.
 * **has_errata**
@@ -67,7 +67,7 @@ Required properties are in **bold**.
 * presence - Character, Starship, Vehicle only.
 * **rarity_code** - Possible values: `"C"`, `"C1"` `"C2"`, `"C3"` `"U"`, `"U1"` `"U2"`, `"R"` `"R1"`, `"R2"` `"F"`, `"PM"` `"PM2"`, `"PM3"`, `"PM3"`, `"PM5"`, `"PV"`, `"UR"`, `"XR"`.
 * republic - Character, Starship only.
-* resistance
+* resistance - Starship, Vehicle only.
 * scomp_link - Starship, Vehicle, Location only.
 * selective - Creature only.
 * separatist - Character only.
