@@ -8,7 +8,7 @@ foreach ($set as $key => $value) {
   foreach($set[$key] as $prop => $val) {
 
     // Format required fields
-    if (in_array($prop, array('type_code', 'subtype_code', 'side_code'))) {
+    if (in_array($prop, array('type_code', 'side_code'))) {
       $set[$key][$prop] = kebabCase($val);
     }
 
@@ -73,6 +73,15 @@ foreach ($set as $key => $value) {
   foreach($set[$key] as $prop => $val) {
 
     // Format or remove optional fields
+
+    if ($prop == 'subtype_code') {
+      if(in_array($set[$key]['type_code'], array('character', 'creature', 'starship', 'vehicle', 'weapon', 'location', 'interrupt', 'effect')) && !empty($val)) {
+        $set[$key][$prop] = kebabCase($val);
+      } else {
+        unset($set[$key][$prop]);
+      }
+    }
+
     if (in_array($prop, array('ability', 'armor', 'power'))) {
       if(in_array($set[$key]['type_code'], array('character', 'starship', 'vehicle'))) {
         $set[$key][$prop] = (int)$val;

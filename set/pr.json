@@ -67,7 +67,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -86,7 +85,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -156,7 +154,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -406,7 +403,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -515,7 +511,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -685,7 +680,6 @@
   "rarity_code": "R2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -739,7 +733,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -845,7 +838,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -864,7 +856,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -901,7 +892,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -989,7 +979,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -1276,7 +1265,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -1402,7 +1390,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -1494,7 +1481,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -1825,7 +1811,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -1926,7 +1911,6 @@
   "rarity_code": "R2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -2070,7 +2054,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -2142,7 +2125,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -2577,7 +2559,6 @@
   "rarity_code": "R2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -2754,7 +2735,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -2773,7 +2753,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -2810,7 +2789,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -2829,7 +2807,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -2848,7 +2825,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -3050,7 +3026,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -3140,7 +3115,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -3210,7 +3184,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -3552,7 +3525,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -3606,7 +3578,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -3968,7 +3939,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "light",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -4041,7 +4011,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -4166,7 +4135,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -4286,7 +4254,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -4305,7 +4272,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -4342,7 +4308,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -4397,7 +4362,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -4520,7 +4484,6 @@
   "rarity_code": "C1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -4713,7 +4676,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "***"
 }, {
@@ -4876,7 +4838,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -5131,7 +5092,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -5218,7 +5178,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -5326,7 +5285,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -5345,7 +5303,6 @@
   "rarity_code": "R2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -5415,7 +5372,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -5597,7 +5553,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -5652,7 +5607,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -5924,7 +5878,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -5995,7 +5948,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -6459,7 +6411,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -6478,7 +6429,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -6566,7 +6516,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -6711,7 +6660,6 @@
   "rarity_code": "R1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "**"
 }, {
@@ -6835,7 +6783,6 @@
   "rarity_code": "U2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -6852,7 +6799,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -7006,7 +6952,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -7023,7 +6968,6 @@
   "rarity_code": "C2",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "device",
   "uniqueness": ""
 }, {
@@ -7042,7 +6986,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
@@ -7829,7 +7772,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": "*"
 }, {
@@ -8000,7 +7942,6 @@
   "rarity_code": "U1",
   "set_code": "pr",
   "side_code": "dark",
-  "subtype_code": "",
   "type_code": "effect",
   "uniqueness": ""
 }, {
