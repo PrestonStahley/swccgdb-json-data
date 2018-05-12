@@ -123,7 +123,7 @@ foreach ($set as $key => $value) {
     }
 
     if ($prop == 'maneuver') {
-      if(in_array($set[$key]['type_code'], array('character', 'starship'))) {
+      if(in_array($set[$key]['type_code'], array('character', 'starship', 'vehicle'))) {
         $set[$key][$prop] = (int)$val;
       } else {
         unset($set[$key][$prop]);
