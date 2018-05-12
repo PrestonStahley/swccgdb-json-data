@@ -5,15 +5,15 @@
     },
     {
         "code": "C1",
-        "name": "Common"
+        "name": "Common 1"
     },
     {
         "code": "C2",
-        "name": "Common"
+        "name": "Common 2"
     },
     {
         "code": "C3",
-        "name": "Common"
+        "name": "Common 3"
     },
     {
         "code": "F",
@@ -25,15 +25,15 @@
     },
     {
         "code": "PM2",
-        "name": "Premium"
+        "name": "Premium (2 copies)"
     },
     {
         "code": "PM3",
-        "name": "Premium"
+        "name": "Premium (3 copies)"
     },
     {
         "code": "PM5",
-        "name": "Premium"
+        "name": "Premium (5 copies)"
     },
     {
         "code": "PV",
@@ -45,11 +45,11 @@
     },
     {
         "code": "R1",
-        "name": "Common"
+        "name": "Rare 1"
     },
     {
         "code": "R2",
-        "name": "Common"
+        "name": "Rare 2"
     },
     {
         "code": "U",
@@ -57,11 +57,11 @@
     },
     {
         "code": "U1",
-        "name": "Common"
+        "name": "Uncommon 1"
     },
     {
         "code": "U2",
-        "name": "Common"
+        "name": "Uncommon 2"
     },
     {
         "code": "UR",
