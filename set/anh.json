@@ -226,7 +226,7 @@
   "separatist": false,
   "set_code": "anh",
   "side_code": "light",
-  "subtype_code": "alien\/rebel",
+  "subtype_code": "alien-rebel",
   "type_code": "character",
   "uniqueness": "*",
   "warrior": true

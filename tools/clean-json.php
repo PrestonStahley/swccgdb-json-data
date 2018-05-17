@@ -1,6 +1,6 @@
 <?php
 
-$json = file_get_contents('./set/raw/pr.json');
+$json = file_get_contents('./set/raw/anh.json');
 $set = json_decode($json,true);
 
 foreach ($set as $key => $value) {
@@ -286,10 +286,11 @@ foreach ($set as $key => $value) {
 
 }
 
-file_put_contents('./set/pr.json', json_encode($set));
+file_put_contents('./set/anh.json', json_encode($set));
 
 function kebabCase($val) {
-  return str_replace(' ', '-', strtolower($val));
+  $kebabables = array(" ", "/");
+  return str_replace($kebabables, '-', strtolower($val));
 }
 
 function cleanCardName($val) {
