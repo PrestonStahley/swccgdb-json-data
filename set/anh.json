@@ -2659,7 +2659,7 @@
   "destiny": 3,
   "episode_1": false,
   "episode_7": false,
-  "ferocity": 0,
+  "ferocity": null,
   "forfeit": 0,
   "gametext": "* Ferocity = (power\/ferocity of last character or creature eaten) + destiny. Habitat: exterior Dagobah sites, Trash Compactor and Dark Waters.",
   "has_errata": false,
