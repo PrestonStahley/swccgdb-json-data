@@ -3988,7 +3988,7 @@
   "destiny": 3,
   "episode_1": false,
   "episode_7": false,
-  "ferocity": 0,
+  "ferocity": null,
   "forfeit": 0,
   "gametext": "* Ferocity = 3 + destiny. Habitat: Hoth sites. Deploy only to Wampa Cave or unoccupied marker site. Defeated characters are eaten or relocated to Wampa Cave (opponent of victim chooses).",
   "has_errata": false,
