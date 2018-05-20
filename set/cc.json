@@ -2207,7 +2207,7 @@
   "forfeit": 6,
   "gametext": "Adds 3 to power of anything he pilots. When piloting \\ul Slave I\\ul0, also adds 2 to maneuver and may draw one battle destiny if not able to otherwise. When escorting a captive, captive is forfeit +5. May 'fly' (landspeed = 3). Immune to attrition < 3.",
   "has_errata": true,
-  "image_url": "CloudCity-Dark\/large\/bobafettcc.gif",
+  "image_url": "CloudCity-Dark\/large\/bobafett.gif",
   "lore": "Feared \\b bounty hunter\\b0. Collected bounties on Solo from both the Empire and Jabba the Hutt. Took exquisite pleasure in using Solo's friend to capture him.",
   "maneuver": 0,
   "model_type": "",
