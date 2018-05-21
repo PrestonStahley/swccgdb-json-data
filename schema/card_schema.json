@@ -111,6 +111,10 @@
             "minLength": 0,
             "type": "string"
         },
+        "image_url_2": {
+            "minLength": 0,
+            "type": "string"
+        },
         "independent": {
           "type": "boolean"
         },
