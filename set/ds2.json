@@ -298,7 +298,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "light",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "ability": 2,
@@ -437,7 +437,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "light",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "code": "09016",
@@ -453,7 +453,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "light",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "characteristics": "missile",
@@ -1253,7 +1253,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "light",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "characteristics": "",
@@ -2300,7 +2300,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "light",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "ability": 0,
@@ -2738,7 +2738,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "dark",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "ability": 2,
@@ -3575,7 +3575,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "dark",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "code": "09125",
@@ -3591,7 +3591,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "dark",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "ability": 3,
@@ -3806,7 +3806,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "dark",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "ability": 4,
@@ -5157,7 +5157,7 @@
   "rarity_code": "R",
   "set_code": "ds2",
   "side_code": "dark",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "characteristics": "",
