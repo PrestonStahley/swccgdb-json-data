@@ -1,6 +1,7 @@
 <?php
 
-$json = file_get_contents('./set/raw/anh.json');
+$setCode = "pr";
+$json = file_get_contents("./set/raw/{$setCode}.json");
 $set = json_decode($json,true);
 
 foreach ($set as $key => $value) {
@@ -286,7 +287,7 @@ foreach ($set as $key => $value) {
 
 }
 
-file_put_contents('./set/anh.json', json_encode($set));
+file_put_contents("./set/{$setCode}.json", json_encode($set));
 
 function kebabCase($val) {
   $kebabables = array(" ", "/");
