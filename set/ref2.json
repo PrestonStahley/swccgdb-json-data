@@ -363,7 +363,7 @@
   "rarity_code": "PM",
   "set_code": "ref2",
   "side_code": "light",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "code": "22015",
@@ -766,7 +766,7 @@
   "rarity_code": "PM",
   "set_code": "ref2",
   "side_code": "dark",
-  "type_code": "admiral's-order",
+  "type_code": "admirals-order",
   "uniqueness": "*"
 }, {
   "ability": 3,
