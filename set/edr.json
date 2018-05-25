@@ -3177,7 +3177,7 @@
   "gametext": "[Front Side]: \\ul Deploy Endor system, Bunker and Landing Platform.\\ul0 \\par \\b While\\b0  this side up, once during each of your control phases, may take one Ominous Rumors or Establish Secret Base into hand from Reserve Deck; reshuffle. \\par \\b Flip\\b0  this card if Ominous Rumors and Establish Secret Base are both on table. \\par \\b Place\\b0  out of play if an Endor location is \"blown away.\"\\\\par[Back Side]: \\b While\\b0  this side up, at each Endor site where you have a biker scout or a piloted AT-ST, your Force drains may not be modified or canceled by opponent, except by a 'react'. Opponent draws no more than one battle destiny in each battle. Your AT-STs are immune to attrition < 3. Once during each of your draw phases, you may retrieve one biker scout. \\par \\b Flip\\b0  this card if Ominous Rumors and Establish Secret Base are not both on table. \\par \\b Place\\b0  out of play if an Endor location is \"blown away.\"",
   "has_errata": false,
   "image_url": "Endor-Dark\/large\/endoroperations.gif",
-  "image_url_2": "Endor-Light\/large\/imperialoutpost.gif",
+  "image_url_2": "Endor-Dark\/large\/imperialoutpost.gif",
   "lore": "",
   "name": "Endor Operations\/Imperial Outpost",
   "position": 121,
