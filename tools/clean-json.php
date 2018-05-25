@@ -295,7 +295,7 @@ function kebabCase($val) {
 
 function cleanCardName($val) {
   $s = strtolower($val);
-  return preg_replace('/[^a-z0-9]+/i', '', $s);
+  return preg_replace('/[^a-z0-9\&]+/i', '', $s);
 }
 
 function upperCase($val) {
