@@ -118,6 +118,9 @@
         "independent": {
           "type": "boolean"
         },
+        "is_horizontal": {
+          "type": "boolean"
+        },
         "landspeed": {
             "oneOf": [
                 {
