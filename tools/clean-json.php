@@ -1,6 +1,6 @@
 <?php
 
-$setCode = "pr";
+$setCode = "ref3";
 $json = file_get_contents("./set/raw/{$setCode}.json");
 $set = json_decode($json,true);
 
@@ -52,7 +52,7 @@ foreach ($set as $key => $value) {
       if($setName == 'jpack') { $setName = 'JediPack'; }
       if($setName == '2pesb') { $setName = 'EmpireStrikesBackIntroductoryTwoPlayerGame'; }
       if($setName == 'rlp') { $setName = 'RebelLeader'; }
-      if($setName == 'ostd') { $setName = 'OfficialTournamentSealedDeck'; }
+      if($setName == 'otsd') { $setName = 'OfficialTournamentSealedDeck'; }
       if($setName == 'epp') { $setName = 'EnhancedPremiere'; }
       if($setName == 'ecc') { $setName = 'EnhancedCloudCity'; }
       if($setName == 'ejp') { $setName = 'EnhancedJabbasPalace'; }
