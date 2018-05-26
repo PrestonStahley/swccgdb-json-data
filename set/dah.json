@@ -2700,6 +2700,7 @@
   "hyperspeed": 2,
   "image_url": "Dagobah-Dark\/large\/executor.gif",
   "independent": false,
+  "is_horizontal": true,
   "lore": "Flagship of Death Squadron. Over eight kilometers long. Carries 38,000 troops. Can conquer entire star systems by sheer intimidation and terror. Lord Vader's personal command ship.",
   "maneuver": 0,
   "model_type": "Super-class Star Destroyer",

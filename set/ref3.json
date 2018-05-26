@@ -1603,6 +1603,7 @@
   "gametext": "Deploy on Maul. Adds 1 to Maul's lightsaber combat total. May lose 1 Force to add 2 to Force drain where present. Twice per battle, may target a character. Draw two destiny. Target hit, and its forfeit = 0, if total > defense value. While on Maul, may not be stolen.",
   "has_errata": true,
   "image_url": "ReflectionsIII-Dark\/large\/maulsdoublebladedlightsaber.gif",
+  "is_horizontal": true,
   "lore": "Maul's double-bladed lightsaber is two lightsabers fused into one that requires years of training to wield properly. Like its mysterious owner, this weapon hasn't been seen for a millennia.",
   "name": "Maul's Double-Bladed Lightsaber",
   "position": 75,

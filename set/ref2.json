@@ -639,7 +639,7 @@
   "gametext": "[Front Side]: \\ul Deploy Cantina, Docking Bay 94, and Tatooine system.\\ul0 \\par \\b For\\b0  remainder of game, opponent activates no Force at your Cantina. Your cards with ability are deploy +6 except Luke, smugglers, freighters, and [Independent] starships. Opponent's game text on Kessel system is canceled. \\par \\b While\\b0  this side up, once during each of your deploy phases, may take Corellia or Kessel into hand from Reserve Deck; reshuffle. \\par \\b Flip\\b0  this card if you occupy two battlegrounds with smugglers or have completed two Kessel Runs.\\\\par[Back Side]: \\b While\\b0  this side up, your Force generation is +1 at each system you control with a smuggler. Opponent's Force generation at non-battlegrounds is limited to 1. When you have two or more smugglers in a battle, add one battle destiny. Each of your smugglers is forfeit +2. Once during each turn, may play one interrupt from Lost Pile as if from hand (then place that card out of play). Sense, Alter, and Keep Your Eyes Open may not be played. \\par \\b Flip\\b0  this card if you do not occupy two battlegrounds (unless you have completed two Kessel Runs).",
   "has_errata": true,
   "image_url": "ReflectionsII-Light\/large\/watchyourstep.gif",
-  "image_url": "ReflectionsII-Light\/large\/thisplacecanbealittlerough.gif",
+  "image_url_2": "ReflectionsII-Light\/large\/thisplacecanbealittlerough.gif",
   "lore": "",
   "name": "Watch Your Step\/This Place Can Be A Little Rough",
   "position": 26,

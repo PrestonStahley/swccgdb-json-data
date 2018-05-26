@@ -3610,6 +3610,7 @@
   "hyperspeed": 2,
   "image_url": "DeathStarII-Dark\/large\/flagshipexecutor.gif",
   "independent": false,
+  "is_horizontal": true,
   "lore": "Command ship of the Imperial Fleet at the Battle of Endor. Originally constructed at the Fondor ship yards. Admiral Piett stationed aboard.",
   "maneuver": 0,
   "model_type": "Super-class Star Destroyer",
