@@ -3658,7 +3658,7 @@
   "gametext": "May add 1 pilot (must be a bounty hunter) and 3 passengers. May deploy with a pilot as a 'react'. Immune to attrition < 5 if Boba Fett piloting. Has ship-docking capability.",
   "has_errata": true,
   "hyperspeed": 4,
-  "image_url": "CloudCity-Dark\/large\/slavei.gif",
+  "image_url": "CloudCity-Dark\/large\/slaveI.gif",
   "independent": true,
   "lore": "Originally designed as a planetary defense craft. Uses restricted jamming technology, allowing it to appear out of nowhere. Contains many hidden armaments.",
   "maneuver": 4,
